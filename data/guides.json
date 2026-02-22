@@ -1,0 +1,136 @@
+[
+{
+    "title": "*Dragon Age: Origins* : Quelle classe choisir ?",
+    "content":[
+        {
+            "type":"text",
+            "content":"Choisir la bonne classe dans un jeu de rôle est crucial pour profiter pleinement de l’aventure. Mais quand on joue pour la première fois, ce n’est pas toujours évident. Chaque classe offre un style de jeu unique et influencera la manière dont vous aborderez les combats. Dans *Dragon Age: Origins*, il existe trois classes."
+        },
+        {
+            "type":"text",
+            "content":"La classe **Guerrier** est idéale pour les joueurs débutants ou ceux qui aiment se trouver au cœur de l’action. Les Guerriers sont spécialisés dans le combat corps à corps et possèdent une grande résistance aux dégâts. Si vous choisissez un Guerrier, vous aurez l’avantage de pouvoir vous concentrer sur les bases du combat sans être trop pénalisés par la gestion complexe des compétences à distance ou magiques. Cependant, les Guerriers sont moins polyvalents que les autres classes : ils ont peu d’options pour attaquer à distance et doivent prêter attention à leur équipement pour maximiser leur efficacité."
+        },
+        {
+            "type":"text",
+            "content":"La classe **Mage** est idéale pour les joueurs qui aiment la stratégie et la variété, ainsi que pour ceux qui préfèrent se battre à distance. Les Mages utilisent des sorts pour attaquer, se défendre et soutenir leurs alliés. Cette classe offre une grande polyvalence, car elle permet de choisir différents types de sorts selon le style de jeu : offensif, défensif ou de soutien. Les Mages peuvent soigner, infliger de lourds dégâts magiques ou neutraliser des ennemis puissants. Leur principale faiblesse est leur fragilité : un mage mal protégé peut mourir rapidement. Il faut donc apprendre à gérer ses points de magie, à se placer correctement sur le champ de bataille et à utiliser intelligemment ses compétences pour survivre. Cette classe n’est toutefois pas disponible si vous choisissez un Nain."
+        },
+        {
+            "type":"text",
+            "content":"La classe **Voleur** est recommandée pour les joueurs qui apprécient la furtivité et la rapidité. Les Voleurs excellent dans les attaques surprises et la manipulation des pièges. Ils permettent de venir à bout des ennemis sans passer par un combat direct, et ils peuvent infliger des dégâts importants en ciblant les points faibles des ennemis. Cette classe est plus complexe à maîtriser, car les Voleurs sont fragiles et nécessitent de rester constamment mobiles et attentifs à l’environnement. Jouer un Voleur demande donc un peu plus de stratégie et d’anticipation."
+        },
+        {
+            "type":"text",
+            "content":"Pour bien choisir votre classe, posez-vous les questions suivantes : préférez-vous être au centre de l’action et encaisser les dégâts, ou préférez-vous planifier vos attaques et contrôler la bataille ? Souhaitez-vous expérimenter avec la magie et la polyvalence, ou préférez-vous la rapidité et la subtilité ? Chaque choix a ses avantages et inconvénients, mais il n’y a pas de mauvais choix. L’important est de comprendre les points forts et les points faibles de la classe que vous sélectionnez pour adapter votre style de jeu."
+        },
+        {
+            "type":"text",
+            "content":"Plus tard, dans votre partie de Dragon Age: Origins, afin de personnaliser votre style de jeu, vous aurez la possibilité de choisir deux spécialisations parmi quatre proposées par votre classe : "
+        },
+        {
+            "type":"text",
+            "content":"- **Guerrier** : Berserker, Champion, Psycho, Templier"
+        },
+        {
+            "type":"text",
+            "content":"- **Mage** : Guerrier mystique, Mage de sang, Métamorphe, Guérisseur"
+        },
+        {
+            "type":"text",
+            "content":"- **Voleur** : Assassin, Barde, Duelliste, Rodeur"
+        },
+        {
+            "type":"text",
+            "content":"Pour connaître les spécialisations et leurs spécificités, vous pouvez vous rendre sur la page [Dragon Age: Origins : Quelle spécialisation choisir ?](...) ."
+        }
+    ]
+},
+{
+    "title":"*Dragon Age: Origins* : Quelle spécialisation choisir ?",
+    "content":[
+        {
+            "type":"text",
+            "content":"Dans Dragon Age: Origins, après avoir choisi votre classe - Guerrier, Mage ou Voleur - (voir le guide [*Dragon Age: Origins* : Quelle classe choisir ?](...) ), vous aurez la possibilité de choisir deux spécialisations : une au niveau 7 et une au niveau 14. Chaque spécialisation offre des compétences uniques et modifie votre style de jeu. Et chaque classe offre quatre spécialisations à choisir. Il faut savoir que les quatre spécialisations de votre classe ne sont pas disponibles au début de votre partie : il faut remplir des conditions spécifiques."
+        },
+        {
+            "type":"text",
+            "content":"Voici le guide pour vous aider à faire le meilleur choix selon votre style de jeu :"
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"- Guerrier :"
+        },
+        {
+            "type":"text",
+            "content":"    - **Berserker** : Spécialisation très offensive. Les Berserkers infligent de lourds dégâts au corps à corps et gagnent en puissance lorsqu’ils subissent des blessures. Cependant, ils doivent surveiller leur santé pour ne pas tomber trop rapidement. Il existe deux conditions pour débloquer cette spécialisation. La première est d’augmenter le niveau d’approbation d’Oghren afin qu’il puisse vous l’enseigner. La deuxième est d’acheter un manuel chez Gorim au quartier marchand de Dénérim."
+        },
+        {
+            "type":"text",
+            "content":"    - **Champion** : Spécialisation défensive, idéale pour encaisser les attaques ennemies et protéger vos alliés. Les Champions attirent l’attention des ennemis et servent de tanks efficaces pour le groupe. Cette spécialisation est offerte comme récompense à la fin de la quête ''Le Iarl de Golefalois'', à condition de l’avoir accepté."
+        },
+        {
+            "type":"text",
+            "content":"    - **Templier** : Spécialisation polyvalente axée sur la défense contre la magie. Les Templiers sont très utiles contre les mages adverses et peuvent protéger le groupe tout en restant efficaces au combat. Enseignée par Alistair si son niveau d’approbation est élevé, ou acquise par un manuel vendu par Bodahn au Campement."
+        },
+        {
+            "type":"text",
+            "content":"    - **Psychomancien** : Spécialisation axée sur la manipulation de la puissance mentale et des attaques psychiques. Idéal pour un style de jeu stratégique et surprenant, capable de contrôler le champ de bataille et affaiblir les ennemis. Débloquée en se rangeant du côté de Kolgrim lors de la quête de la “Sainte urne cinéraire”."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"- Mage : "
+        },
+        {
+            "type":"text",
+            "content":"    - **Guerrier mystique** : Une spécialisation hybride entre attaque et magie défensive. Le Guerrier mystique peut encaisser quelques coups tout en lançant des sorts puissants, parfait pour ceux qui aiment être au cœur du combat. Enseignée par une âme emprisonnée dans une phylactère, pendant (ou après) la quête “La nature de la bête” dans les ruines de Bréciliane."
+        },
+        {
+            "type":"text",
+            "content":"    - **Mage de sang** : Spécialisation très offensive, utilisant le sang du mage pour alimenter des sorts dévastateurs. Elle demande une bonne gestion des ressources mais permet de faire d’énormes dégâts. Apprise en concluant un pacte avec le démon du désir pendant la quête “Le Iarl de Golefalois”."
+        },
+        {
+            "type":"text",
+            "content":"    - **Métamorphe** : Permet de transformer le mage ou les ennemis, offrant un style de jeu polyvalent. Idéal pour ceux qui aiment adapter leur stratégie à la situation et surprendre les ennemis. Enseignée par Morrigan si son niveau d’approbation est élevé, ou acquise par un manuel vendu par Varathorn au campement dalatien."
+        },
+        {
+            "type":"text",
+            "content":"    - **Guérisseur vital** : Spécialisation de soutien, concentrée sur la protection et la guérison des alliés. Elle est parfaite pour les joueurs qui préfèrent aider le groupe plutôt qu’attaquer directement. Acquise par un manuel vendu aux Merveilles de Thédas à Denerim, ou enseignée par Levi Dryden au Pic du Soldat (DLC *La Forteresse des Gardes des Ombres*). Étrangement, votre compagnon, la guérisseuse vitale Wynne, ne vous enseignera jamais, peu importe le niveau d’approbation."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"- Voleur : "
+        },
+        {
+            "type":"text",
+            "content":"    - **Assassin** : Voleur spécialisé dans les attaques surprises et les coups critiques. Parfait pour éliminer rapidement des cibles clés et contrôler les combats de manière furtive. Enseignée par Zevran si son niveau d’approbation est élevé, ou acquise par un manuel vendu par Alarith au Bascloître de Dénérim."
+        },
+        {
+            "type":"text",
+            "content":"    - **Barde** : Spécialisation de soutien, utilisant des capacités de manipulation et de charme pour influencer le champ de bataille. Les Bardes peuvent renforcer leurs alliés et affaiblir les ennemis. Enseignée par Leliana si son niveau d’approbation est élevé, ou acquise par un manuel vendu par Alimar à Orzammar."
+        },
+        {
+            "type":"text",
+            "content":"    - **Duelliste** : Voleur orienté vers le combat direct et agile. Les Duellistes sont rapides et précis, capables de contrer et d’esquiver les attaques ennemies. Enseignée par Isabela à la Perle de Denerim, après l'avoir persuadée, l’avoir battue à un duel ou avoir couché avec elle."
+        },
+        {
+            "type":"text",
+            "content":"    - **Rôdeur** : Expert de la furtivité et de l’infiltration. Les Rôdeurs sont capables d’attaquer discrètement, poser des pièges et exploiter la surprise pour infliger de gros dégâts. Apprise par un manuel vendu par Bodahn au Campement."
+        },
+        {
+            "type":"text",
+            "content":"Si vous hésitez dans votre choix de spécialisation, sachez qu’il est possible de les expérimenter en jouant vos compagnons. Les compagnons possèdent chacun une spécialisation dès le début de la partie du jeu. Tous, sauf Sten, peuvent en acquérir une deuxième. Cela vous permettra de comprendre les compétences offertes et ainsi de trouver celle qui correspond le mieux à votre style de jeu."
+        }
+    ]
+}
+]

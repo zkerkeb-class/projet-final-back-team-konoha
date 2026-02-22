@@ -1,0 +1,75 @@
+[
+{
+    "title": "Quel est pour vous le pire jeu vidéo de l'Histoire ?",
+    "options": [
+        {
+            "text": "E.T. the Extra-Terrestrial (1982)", 
+            "votes": 0 },
+        { 
+            "text": "Goat Simulator (2014)", 
+            "votes": 0 },
+        { 
+            "text": "Zelda's Adventure (1995)", 
+            "votes": 0 },
+        { 
+            "text": "Bubsy 3D (1997)", 
+            "votes": 0 
+        }
+    ]
+},
+{
+    "title": "Quel RPG vous a le plus marqué ces dernières années ?",
+    "options": [
+        {
+            "text": "Baldur's Gate III (2023)", 
+            "votes": 0 },
+        { 
+            "text": "Clair Obscur Expedition 33 (2025)", 
+            "votes": 0 },
+        { 
+            "text": "Monster Hunter Wilds (2025)", 
+            "votes": 0 },
+        { 
+            "text": "The Elder Scrolls IV: Oblivion Remastered (2025)", 
+            "votes": 0 
+        },
+        {
+            "text": "Cyberpunk 2077 (2020)", 
+            "votes": 0
+        },
+        {
+            "text": "Elden Ring (2022)",
+            "votes": 0
+        },
+        {
+            "text": "Final Fantasy VII Rebirth (2024)", 
+            "votes": 0
+        }
+    ]
+},
+{
+    "title":"Pour vous, qu’est-ce qui prime : graphismes ou gameplay ?",
+    "options":[
+        {
+            "text": "Graphisme",
+            "votes": 0
+        },
+        {
+            "text": "Gameplay",
+            "votes": 0
+        },
+        {
+            "text": "Les deux",
+            "votes": 0
+        },
+        {
+            "text": "Peu importe, tant que l'histoire est bonne, je joue",
+            "votes": 0
+        },
+        {
+            "text": "Je ne sais pas",
+            "votes": 0
+        }
+    ]
+}
+]
