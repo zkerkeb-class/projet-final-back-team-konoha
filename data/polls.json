@@ -15,7 +15,8 @@
             "text": "Bubsy 3D (1997)", 
             "votes": 0 
         }
-    ]
+    ],
+    "voters":[]
 },
 {
     "title": "Quel RPG vous a le plus marqué ces dernières années ?",
@@ -45,7 +46,8 @@
             "text": "Final Fantasy VII Rebirth (2024)", 
             "votes": 0
         }
-    ]
+    ],
+    "voters":[]
 },
 {
     "title":"Pour vous, qu’est-ce qui prime : graphismes ou gameplay ?",
@@ -70,6 +72,7 @@
             "text": "Je ne sais pas",
             "votes": 0
         }
-    ]
+    ],
+    "voters":[]
 }
 ]

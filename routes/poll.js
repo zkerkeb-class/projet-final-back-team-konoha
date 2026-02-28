@@ -8,7 +8,6 @@ const limit = 5;
 router.get("/", async (req, res) => {
   try {
     const page = parseInt(req.query.page) || 1;
-    const limit = 10;
     const skip = (page - 1) * limit;
 
     const polls = await poll.find({}).skip(skip).limit(limit);
@@ -54,17 +53,30 @@ router.get('/search', async (req, res) => {
 router.post("/:id/vote", auth, async (req, res) => {
   try {
     const { optionIndex } = req.body;
-    const pollId = await Poll.findById(req.params.id);
-    if (!poll) return res.status(404).json({ message: "Sondage introuvable" });
+    const polls = await poll.findById(req.params.id);
+    if (!polls) {
+      return res.status(404).json({ message: "Sondage introuvable" });
+    }
 
-    if (poll.options[optionIndex] === undefined)
+    //nouveau
+    if (polls.voters.includes(req.user.id)) {
+      return res.status(403).json({ message: "Vous avez déjà voté" });
+    }
+
+    if (
+      optionIndex === undefined ||
+      optionIndex < 0 ||
+      optionIndex >= polls.options.length
+    ) {
       return res.status(400).json({ message: "Option invalide" });
+    }
 
-    poll.options[optionIndex].votes += 1;
-    await poll.save();
-
-    res.json(poll);
+    polls.options[optionIndex].votes += 1;
+    polls.voters.push(req.user.id); //nouveau
+    await polls.save();
+    res.json(polls);
   } catch (error) {
+    console.error("Vote error:", error);
     res.status(500).json({ message: "Erreur serveur" });
   }
 });

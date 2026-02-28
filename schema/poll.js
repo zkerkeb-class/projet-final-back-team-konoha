@@ -7,6 +7,12 @@ const pollSchema = new mongoose.Schema({
       text: { type: String, required: true },
       votes: { type: Number, default: 0 }
     }
+  ],
+  voters: [
+    {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "User"
+    }
   ]
 });
 
