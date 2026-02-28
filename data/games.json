@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Dragon Age: Origins",
+    "series": "Dragon Age",
+    "editor": "Electronic Arts",
+    "studio": "BioWare",
+    "genres":["RPG"],
+    "platforms":["PC", "PlayStation 3", "Xbox 360"],
+    "releaseDate":{
+        "america":"2009-11-03",
+        "europe":"2009-11-06"
+    },
+    "description": [
+      "*Dragon Age: Origins* est un jeu de rôle développé par BioWare et sorti en 2009. Le jeu vidéo plonge le joueur dans un monde médiéval-fantastique. L’histoire se déroule dans le royaume de Ferelden, menacé par des forces surnaturelles appelées les Engeances. Le joueur incarne une nouvelle recrue de la Garde de l’Ombre. L’exploration est accompagnée de choix moraux, d'alliances politiques et de conflits culturels.",
+      "Le développement de *Dragon Age: Origins* a débuté après la fin des séries *Baldur's Gate: Dark Alliance* et de *Mass Effect*. L'équipe de BioWare souhaitait créer un RPG plus sombre et mature. Le moteur de jeu utilisé permettait des graphismes détaillés et une IA avancée pour les combats tactiques. L'équipe a mis l'accent sur la narration, la profondeur des personnages et la richesse du lore pour offrir une expérience immersive au joueur.",
+      "*Dragon Age: Origins* est un RPG tactique en vue isométrique. Il combine exploration, dialogues interactifs et combats en temps réel avec pause stratégique. Les joueurs créent leur avatar en choisissant la race, la classe et l’histoire de départ. Ces trois choix influencent les interactions avec les autres personnages ainsi que le déroulement de l'histoire. Les choix moraux ont non seulement un impact sur les relations avec les autres mais aussi sur la fin du jeu et le destin du monde fictif. Ils brisent la frontière manichéenne entre le bien et le mal.",
+      "À sa sortie, *Dragon Age: Origins* a été salué par la critique pour son univers riche, ses personnages profonds et ses choix moraux complexes. Le jeu a remporté plusieurs prix et a vu des suites, dont *Dragon Age II* et *Dragon Age: Inquisition*. Il a marqué un retour en force pour les RPG occidentaux et a renforcé la réputation de BioWare en tant que studio spécialisé dans les jeux à histoire immersive."
+    ],
+    "image": "http://localhost:3000/assets/dragon-age-origins.webp"
+  },
+  {
+    "title": "The Elder Scrolls III: Morrowind",
+    "series": "The Elder Scrolls",
+    "editor": "Bethesda Softworks",
+    "studio": "Bethesda Game Studios",
+    "genres": ["RPG"],
+    "platforms": ["PC", "Xbox"],
+    "releaseDate": {
+      "america": "2002-05-01",
+      "europe": "2002-05-03"
+    },
+    "description": [
+      "*The Elder Scrolls III: Morrowind* est un RPG développé par Bethesda Game Studios et sorti en 2002. Le jeu se déroule sur l’île de Vvardenfell dans la province de Morrowind, un monde ouvert rempli de factions, de quêtes et de cultures diverses. Le joueur incarne le Nérévarine, la réincarnation d’un héros ancien, Nérévar. Il devra affronter le retour d’un ancien mal, Dagoth Ur.",
+      "Bethesda a développé *Morrowind* avec un moteur maison permettant un monde ouvert vaste et détaillé. Le développement a mis l’accent sur la liberté de jeu et la profondeur de l’univers. Les graphismes et la musique ont été conçus pour immerger le joueur dans un environnement unique et vivant.",
+      "*Morrowind* est un RPG en monde ouvert qui combine exploration, combat, magie et interactions sociales. Le joueur peut choisir sa race, sa classe et ses compétences. Le système de quêtes est flexible, permettant de multiples approches et conséquences selon les choix du joueur.",
+      "Le jeu a été acclamé pour sa liberté, son univers riche et sa profondeur. *Morrowind* a influencé de nombreux RPG ultérieurs et a renforcé la réputation de Bethesda pour les RPGs. Il a également posé les bases pour les suites de la franchise, *TES IV: Oblivion* et *TES V: Skyrim*."
+    ],
+    "image": "http://localhost:3000/assets/tes-morrowind.webp"
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim",
+    "series": "The Elder Scrolls",
+    "editor": "Bethesda Softworks",
+    "studio": "Bethesda Game Studios",
+    "genres": ["RPG"],
+    "platforms": ["PC", "PlayStation 3", "PlayStation 4", "Xbox 360", "Xbox One", "Nintendo Switch"],
+    "releaseDate": {
+      "america": "2011-11-11",
+      "europe": "2011-11-11"
+    },
+    "description": [
+      "*The Elder Scrolls V: Skyrim* est un RPG développé par Bethesda Game Studios et sorti en 2011. L’histoire se déroule dans la province de Skyrim, déchirée par la guerre civile et menacée par le retour des dragons anciens. Le joueur incarne le Dragonborn, destiné à affronter le dragon légendaire Alduin.",
+      "*Skyrim* a été développé avec le moteur Creation Engine, offrant un monde vaste et immersif avec un niveau de détails élevé. Bethesda a accentué la liberté du joueur, l’exploration, le système de combat et la personnalisation, tout en intégrant des quêtes dynamiques.",
+      "*Skyrim* est un RPG en monde ouvert où le joueur explore des paysages, accomplit des quêtes, améliore ses compétences et interagit avec des PNG. Le jeu combine combat, magie, furtivité et choix moraux, offrant une expérience personnalisée et multiple fins possibles.",
+      "*Skyrim* a connu un succès commercial massif, devenant une référence des RPG. Il a influencé de nombreux jeux ultérieurs. Il reste populaire grâce à ses extensions et une communauté de joueurs investis pour la création de mods. *Skyrim* a consolidé la position de Bethesda comme leader dans le développement des RPG."
+    ],
+    "image": "http://localhost:3000/assets/tes-skyrim.jpg"
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "series": "Sonic",
+    "editor": "SEGA",
+    "studio": "Sonic Team",
+    "genres": ["Plateforme"],
+    "platforms": ["Mega Drive"],
+    "releaseDate": {
+      "america": "1991-06-23",
+      "europe": "1991-07-26"
+    },
+    "description": [
+      "*Sonic the Hedgehog* est un jeu de plateforme développé par Sega et sorti en 1991 sur Mega Drive. Le jeu introduit le personnage emblématique Sonic, le hérisson bleu capable qui court plus vite que le son. Puis, n’oublions pas son ennemi de toujours, le docteur Robotnik, qui capture des animaux pour les transformer en robots !",
+      "Sega a développé Sonic the Hedgehog pour rivaliser avec Mario de Nintendo. L’accent a été mis sur la vitesse, la fluidité des animations et les niveaux dynamiques. La conception musicale et graphique visait à créer un style unique et reconnaissable pour la mascotte Sonic, renforçant l’identité de la marque Sega.",
+      "Le joueur contrôle Sonic à travers différents niveaux, en collectant des anneaux, en affrontant des ennemis et en évitant les obstacles. La vitesse et le timing sont essentiels, et chaque niveau inclut des zones cachées et des bonus. Le jeu est connu pour son scrolling rapide et ses boss de fin de zone.",
+      "*Sonic the Hedgehog* a été un succès commercial immédiat, établissant Sonic comme la mascotte de Sega et un rival de Mario. Il a donné naissance à une longue série de jeux, bandes dessinées, dessins animés et produits dérivés. Sonic a contribué à populariser la Mega Drive et a marqué l’histoire des jeux de plateforme grâce à son gameplay rapide et son design distinctif."
+    ],
+    "image": "http://localhost:3000/assets/sonic-the-hedgehog-1.jpg"
+  },
+  {
+    "title": "Silent Hill 2 Remake",
+    "series": "Silent Hill",
+    "editor": "Konami",
+    "studio": "Bloober Team",
+    "genres": ["Horreur"],
+    "platforms": ["PlayStation 5", "PC"],
+    "releaseDate": {
+      "america": "2024-10-08",
+      "europe": "2024-10-08"
+    },
+    "description": [
+      "*Silent Hill 2 Remake* est une relecture moderne du célèbre survival horror sorti initialement en 2001. Le jeu suit James Sunderland, un homme tourmenté qui se rend dans la ville brumeuse de Silent Hill après avoir reçu une lettre de sa femme décédée. L’histoire explore des thèmes profonds tels que le deuil, la culpabilité et la dépression, faisant de *Silent Hill 2* l’un des récits psychologiques les plus marquants du jeu vidéo.",
+      "Le remake est développé par Bloober Team en collaboration avec Konami. L’objectif principal était de moderniser l’expérience tout en respectant l’œuvre originale. Le jeu utilise l’Unreal Engine 5 afin d’offrir des graphismes réalistes, une gestion avancée de la lumière et des environnements plus immersifs. Akira Yamaoka revient à la composition musicale, garantissant une continuité sonore fidèle, tandis que les personnages et les dialogues ont été retravaillés pour renforcer l’impact émotionnel.",
+      "*Silent Hill 2 Remake* adopte une vue à la troisième personne, plus proche des standards modernes du survival horror. Le gameplay met l’accent sur l’exploration, la résolution d’énigmes et la survie, avec des combats volontairement lourds et stressants. Les environnements évoluent de manière plus organique, renforçant l’angoisse et le sentiment d’isolement du joueur. La manière de jouer influence la fin du jeu.",
+      "Très attendu par les fans de longue date, *Silent Hill 2 Remake* a suscité de nombreuses discussions autour de la fidélité aux œuvres cultes et de la modernisation des classiques. Son approche respectueuse du matériau original, combinée à des technologies modernes, a contribué à raviver l’intérêt pour la franchise *Silent Hill*. Le remake a également renforcé la légitimité de Bloober Team dans le domaine de l’horreur psychologique et a marqué le retour de la saga sur le devant de la scène vidéoludique."
+    ],
+    "image": "http://localhost:3000/assets/silent-hill-2-remake.avif"
+  },
+  {
+    "title": "Detroit: Become Human",
+    "series": "Detroit",
+    "editor": "Sony Interactive Entertainment",
+    "studio": "Quantic Dream",
+    "genres": ["Aventure", "Narratif"],
+    "platforms": ["PlayStation 4", "PC"],
+    "releaseDate": {
+      "america": "2018-05-25",
+      "europe": "2018-05-25"
+    },
+    "description": [
+      "*Detroit: Become Human* est un jeu narratif développé par Quantic Dream et sorti en 2018. L’histoire se déroule en 2038, à Détroit (Etats-Unis). Des androïdes coexistent avec les humains mais sont traités comme des objets. Le joueur suit trois androïdes, chacun ayant son propre point de vue sur le monde où les tensions entre humains et androïdes augmentent. Ces trois histoires parallèles permettent aux joueurs de se poser des questions sur la conscience, l’éthique et la liberté.",
+      "Le jeu a été fait par *motion capture* afin de rendre les personnages expressifs, plus humains, afin d’inciter l’empathie chez les joueurs. *Detroit: Become Human* utilise un moteur propriétaire permettant des animations faciales détaillées et des choix multiples qui ont des conséquences sur l’histoire.",
+      "*Detroit: Become Human* est un jeu narratif, où le joueur contrôle plusieurs personnages et prend des décisions qui influencent le déroulement de l’histoire. Le gameplay combine exploration, QTE, dialogues interactifs et prises de décision morales. L’histoire est construite selon un système de branches multiples qui n’étaient pas consultables dans les jeux précédents de Quantic Dream. Cela incite le joueur à explorer d’autres fins alternatives.",
+      "Le jeu a été acclamé par la critique pour ses graphismes, son scénario et sa capacité à aborder des thèmes matures tels que l’intelligence artificielle et les droits civiques. *Detroit: Become Human* a connu un grand succès commercial, renforçant la réputation de Quantic Dream pour les jeux narratifs interactifs. Le jeu a également généré des discussions sur les questions éthiques liées à l’IA. Il est devenu un exemple majeur de l’évolution du jeu vidéo vers des expériences narratives immersives."
+    ],
+    "image": "http://localhost:3000/assets/detroit-become-human.jpg"
+  }
+]
