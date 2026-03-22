@@ -3,17 +3,39 @@
     "title": "Quel est pour vous le pire jeu vidéo de l'Histoire ?",
     "options": [
         {
-            "text": "E.T. the Extra-Terrestrial (1982)", 
+            "text": "*E.T. the Extra-Terrestrial* (1982)", 
             "votes": 0 },
         { 
-            "text": "Goat Simulator (2014)", 
+            "text": "*Goat Simulator* (2014)", 
             "votes": 0 },
         { 
-            "text": "Zelda's Adventure (1995)", 
+            "text": "*Zelda's Adventure* (1995)", 
             "votes": 0 },
         { 
-            "text": "Bubsy 3D (1997)", 
+            "text": "*Bubsy 3D* (1997)", 
             "votes": 0 
+        }
+    ],
+    "voters":[]
+},
+{
+    "title":"Êtes-vous pour l'interdiction des jeux vidéo aux jeunes de moins de 15 ans ?",
+    "options":[
+        {
+            "text":"Oui",
+            "votes": 0
+        },
+        {
+            "text":"Non",
+            "votes": 0
+        },
+        {
+            "text":"Oui, mais seulement pour les jeux en ligne",
+            "votes": 0
+        },
+        {
+            "text":"Je ne sais pas",
+            "votes": 0
         }
     ],
     "voters":[]
@@ -22,35 +44,35 @@
     "title": "Quel RPG vous a le plus marqué ces dernières années ?",
     "options": [
         {
-            "text": "Baldur's Gate III (2023)", 
+            "text": "*Baldur's Gate III* (2023)", 
             "votes": 0 },
         { 
-            "text": "Clair Obscur Expedition 33 (2025)", 
+            "text": "*Clair Obscur Expedition 33* (2025)", 
             "votes": 0 },
         { 
-            "text": "Monster Hunter Wilds (2025)", 
+            "text": "*Monster Hunter Wilds* (2025)", 
             "votes": 0 },
         { 
-            "text": "The Elder Scrolls IV: Oblivion Remastered (2025)", 
+            "text": "*The Elder Scrolls IV: Oblivion Remastered* (2025)", 
             "votes": 0 
         },
         {
-            "text": "Cyberpunk 2077 (2020)", 
+            "text": "*Cyberpunk 2077* (2020)", 
             "votes": 0
         },
         {
-            "text": "Elden Ring (2022)",
+            "text": "*Elden Ring* (2022)",
             "votes": 0
         },
         {
-            "text": "Final Fantasy VII Rebirth (2024)", 
+            "text": "*Final Fantasy VII Rebirth* (2024)", 
             "votes": 0
         }
     ],
     "voters":[]
 },
 {
-    "title":"Pour vous, qu’est-ce qui prime : graphismes ou gameplay ?",
+    "title":"Pour vous, qu’est-ce qui prime : graphisme ou gameplay ?",
     "options":[
         {
             "text": "Graphisme",
@@ -74,5 +96,227 @@
         }
     ],
     "voters":[]
+},
+{
+    "title":"Quel est pour vous le jeu vidéo le plus difficile de l’Histoire ?",
+    "options":[
+        {
+            "text": "*Super Mario Bros.: The Lost Levels* (1986, Famicom Disk System)",
+            "votes": 0
+        },
+        {
+            "text": "*Teenage Mutant Ninja Turtles* (1989, NES)",
+            "votes": 0
+        },
+        {
+            "text": "*Ninja Gaiden II* (2008, Xbox 360)",
+            "votes": 0
+        },
+        {
+            "text": "*Dark Souls* (II ou III)",
+            "votes": 0
+        }
+    ],
+    "voters":[]
+},
+{
+    "title": "Considérez-vous le jeu vidéo comme un art ?",
+    "options": [
+        { 
+            "text": "Oui", 
+            "votes": 0 
+        },
+        { 
+            "text": "Oui, mais pas tous les jeux vidéo", 
+            "votes": 0 
+        },
+        { 
+            "text": "Non", 
+            "votes": 0 
+        },
+        { 
+            "text": "Je ne sais pas", 
+            "votes": 0 
+        }
+    ],
+    "voters": []
+},
+{
+    "title":"Quelle console préférez-vous ?",
+    "options":[
+        {
+            "text":"Playstation 5",
+            "votes": 0
+        },
+        {
+            "text":"Xbox Series X/S",
+            "votes": 0
+        },
+        {
+            "text":"Nintendo Switch 2",
+            "votes": 0
+        },
+        {
+            "text":"PC",
+            "votes": 0
+        },
+        {
+            "text":"Aucune : je préfère les jeux sur mobile",
+            "votes": 0
+        },
+        {
+            "text":"Aucune : les consoles étaient mieux avant",
+            "votes": 0
+        },
+        {
+            "text": "Je ne sais pas",
+            "votes": 0
+        }
+    ],
+    "voters":[]
+},
+{
+    "title":"Préférez-vous jouer en multijoueur ou en solo ?",
+    "options":[
+        {
+            "text":"Multijoueur",
+            "votes": 0
+        },
+        {
+            "text":"Solo",
+            "votes": 0
+        },
+        {
+            "text":"Seulement avec mes amis",
+            "votes": 0
+        },
+        {
+            "text":"Les deux",
+            "votes": 0
+        }
+    ],
+    "voters":[]
+},
+{
+    "title":"A quelle difficulté jouez-vous souvent ?",
+    "options":[
+        {
+            "text":"Facile",
+            "votes": 0
+        },
+        {
+            "text":"Normal",
+            "votes": 0
+        },
+        {
+            "text":"Difficile",
+            "votes": 0
+        },
+        {
+            "text":"Extrême/Hardcore",
+            "votes": 0
+        }
+    ],
+    "voters":[]
+},
+{
+    "title": "Pour vous, à partir de combien de temps la durée du jeu vidéo devient-elle excessive ?",
+    "options": [
+        { 
+            "text": "Plus de 2h/jour", 
+            "votes": 0 
+        },
+        { 
+            "text": "Plus de 4h/jour", 
+            "votes": 0 
+        },
+        { 
+            "text": "Ça dépend", 
+            "votes": 0 
+        },
+        { 
+            "text": "Jamais", 
+            "votes": 0 
+        },
+        { 
+            "text": "Je ne sais pas", 
+            "votes": 0 
+        }
+    ],
+    "voters": []
+},
+{
+    "title": "Quel type de personnage vous énerve le plus dans un jeu vidéo ?",
+    "options": [
+        { 
+            "text": "Le héros trop parfait", 
+            "votes": 0 
+        },
+        { 
+            "text": "Le traître prévisible", 
+            "votes": 0 
+        },
+        { 
+            "text": "Le PNJ inutile", 
+            "votes": 0 
+        },
+        { 
+            "text": "Le personnage qui parle trop", 
+            "votes": 0 
+        },
+        { 
+            "text": "Le méchant qui veut détruire le monde juste pour le plaisir", 
+            "votes": 0 
+        }
+    ],
+    "voters": []
+},
+{
+    "title": "Parmi les personnages de jeu vidéo cités ci-dessous, lequel préférez-vous ?",
+    "options": [
+        { 
+            "text": "Shadowheart (*Baldur's Gate III*)", 
+            "votes": 0 
+        },
+        { 
+            "text": "Kratos (*God of War*)",
+            "votes": 0 
+        },
+        { 
+            "text": "Lara Croft (*Tomb Raider*)", 
+            "votes": 0 
+        },
+        { 
+            "text": "Link (*The Legend of Zelda*)", 
+            "votes": 0 
+        },
+        { 
+            "text": "Mario", 
+            "votes": 0 
+        },
+        {
+            "text": "Sonic the Hedgehog",
+            "votes": 0
+        }
+    ],
+    "voters": []
+},
+{
+    "title": "Pour vous, l’IA doit-elle remplacer les développeurs de jeux vidéo ?",
+    "options": [
+        { 
+            "text": "Oui", 
+            "votes": 0 
+        },
+        { 
+            "text": "Non", 
+            "votes": 0 
+        },
+        { 
+            "text": "Seulement pour certaines tâches", 
+            "votes": 0 
+        }
+    ],
+    "voters": []
 }
 ]

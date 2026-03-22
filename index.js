@@ -10,11 +10,7 @@ import path from "path";
 
 const app = express();
 
-app.use(cors({
-  origin: "http://localhost:5173", //ajout de 2 lignes après
-  credentials: true,
-  allowedHeaders: ["Content-Type", "Authorization"]
-}));
+app.use(cors({origin: "http://localhost:5173", credentials: true, allowedHeaders: ["Content-Type", "Authorization"]}));
 app.use(express.json());
 app.use('/assets', express.static(path.join(process.cwd(), 'public/assets')));
 app.use("/api", authRoutes);
@@ -22,10 +18,6 @@ app.use("/api/games", gameRoutes);
 app.use("/api/anecdotes", anecdoteRoutes);
 app.use("/api/sondages", pollRoutes);
 app.use("/api/guides", guideRoutes);
-
-app.get('/', (req, res) => {
-  res.send('Hello, World!');
-});
 
 app.listen(3000, () => {
   console.log('Server is running on http://localhost:3000');

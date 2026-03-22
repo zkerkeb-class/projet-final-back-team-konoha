@@ -54,25 +54,13 @@ router.post("/:id/vote", auth, async (req, res) => {
   try {
     const { optionIndex } = req.body;
     const polls = await poll.findById(req.params.id);
-    if (!polls) {
-      return res.status(404).json({ message: "Sondage introuvable" });
-    }
-
-    //nouveau
-    if (polls.voters.includes(req.user.id)) {
-      return res.status(403).json({ message: "Vous avez déjà voté" });
-    }
-
-    if (
-      optionIndex === undefined ||
-      optionIndex < 0 ||
-      optionIndex >= polls.options.length
-    ) {
-      return res.status(400).json({ message: "Option invalide" });
-    }
+    
+    if (!polls) return res.status(404).json({ message: "Sondage introuvable" });
+    if (polls.voters.includes(req.user.id)) return res.status(403).json({ message: "Vous avez déjà voté" });
+    if (optionIndex === undefined || optionIndex < 0 || optionIndex >= polls.options.length) return res.status(400).json({ message: "Option invalide" });
 
     polls.options[optionIndex].votes += 1;
-    polls.voters.push(req.user.id); //nouveau
+    polls.voters.push(req.user.id);
     await polls.save();
     res.json(polls);
   } catch (error) {

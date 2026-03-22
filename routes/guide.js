@@ -51,7 +51,7 @@ router.get('/search', async (req, res) => {
 
 router.get("/:id", async (req, res) => {
   try {
-    const guideFound = await guide.findById(req.params.id);
+    const guideFound = await guide.findOne({id:Number(req.params.id)});
     if (!guideFound) {
       return res.status(404).json({ message: "Jeu non trouvé" });
     }

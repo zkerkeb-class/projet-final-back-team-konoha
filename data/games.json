@@ -1,5 +1,6 @@
 [
   {
+    "id":1,
     "title": "Dragon Age: Origins",
     "series": "Dragon Age",
     "editor": "Electronic Arts",
@@ -12,13 +13,43 @@
     },
     "description": [
       "*Dragon Age: Origins* est un jeu de rôle développé par BioWare et sorti en 2009. Le jeu vidéo plonge le joueur dans un monde médiéval-fantastique. L’histoire se déroule dans le royaume de Ferelden, menacé par des forces surnaturelles appelées les Engeances. Le joueur incarne une nouvelle recrue de la Garde de l’Ombre. L’exploration est accompagnée de choix moraux, d'alliances politiques et de conflits culturels.",
-      "Le développement de *Dragon Age: Origins* a débuté après la fin des séries *Baldur's Gate: Dark Alliance* et de *Mass Effect*. L'équipe de BioWare souhaitait créer un RPG plus sombre et mature. Le moteur de jeu utilisé permettait des graphismes détaillés et une IA avancée pour les combats tactiques. L'équipe a mis l'accent sur la narration, la profondeur des personnages et la richesse du lore pour offrir une expérience immersive au joueur.",
-      "*Dragon Age: Origins* est un RPG tactique en vue isométrique. Il combine exploration, dialogues interactifs et combats en temps réel avec pause stratégique. Les joueurs créent leur avatar en choisissant la race, la classe et l’histoire de départ. Ces trois choix influencent les interactions avec les autres personnages ainsi que le déroulement de l'histoire. Les choix moraux ont non seulement un impact sur les relations avec les autres mais aussi sur la fin du jeu et le destin du monde fictif. Ils brisent la frontière manichéenne entre le bien et le mal.",
-      "À sa sortie, *Dragon Age: Origins* a été salué par la critique pour son univers riche, ses personnages profonds et ses choix moraux complexes. Le jeu a remporté plusieurs prix et a vu des suites, dont *Dragon Age II* et *Dragon Age: Inquisition*. Il a marqué un retour en force pour les RPG occidentaux et a renforcé la réputation de BioWare en tant que studio spécialisé dans les jeux à histoire immersive."
+      "Le développement du jeu a débuté en 2002 et BioWare a employé plus de 144 doubleurs. Il a engagé aussi Inon Zur pour composer la musique du jeu. Bien que BioWare ait décidé très tôt qu’il s’agirait d’un jeu fantastique, des dragons ont été ajoutés tard dans le développement du jeu après que l’équipe ait utilisé un générateur de noms pour créer le titre du jeu. Quant au sous-titre *Origins*, il a été décidé pour faire référence aux six histoires d’origine disponibles lorsque le joueur crée son personnage principal.",
+      "Ce jeu vidéo se présente comme le descendant spirituel de *Baldur's Gate*. L'équipe de BioWare souhaitait créer un RPG plus sombre et mature. Le moteur de jeu utilisé par *Dragon Age: Origins* permettait des graphismes détaillés et une IA avancée pour les combats tactiques. L'équipe a mis l'accent sur la narration, la profondeur des personnages et la richesse du lore pour offrir une expérience immersive au joueur.",
+      "*Dragon Age: Origins* se joue à la troisième personne ou en vue de dessus. Le personnage principal, le Garde de l’Ombre, est créé par le joueur, qui choisit la race (Humain, Nain ou Elfe), le genre, l'apparence, la voix, la classe (Guerrier, Voleur ou Mage) ainsi que l’histoire d’origine. Ces choix affectent la façon dont les PNG et les autres personnages jouables interagissent avec l’avatar du joueur.",
+      "Le bestiaire est constitué d’animaux fantastiques, de fantômes mais également les Engeances et des dragons, qui sont les ennemis de la Garde de l’Ombre. Le joueur affronte aussi des humains, qui sont souvent des bandits ou des soldats ennemis.",
+      "Bien que les compagnons du Garde de l’Ombre sont contrôlés par l’intelligence artificielle, le joueur peut les contrôler lui-même en changeant de personnage. Le comportement des personnages non joués peut être modifié via le menu Tactiques. Le combat se déroule en temps réel et peut être mis en pause afin de laisser au joueur le pouvoir de réfléchir sur la stratégie à mener. À la fin d’un combat, la santé et l’endurance des personnages, qui alimentent ses compétences, sont automatiquement rechargées.",
+      "Le joueur peut faire monter de niveau son personnage Gardien en gagnant des points d’expérience en explorant de nouvelles zones, en accomplissant des quêtes et en battant des ennemis. Chaque fois que le joueur monte de niveau, il reçoit trois points à dépenser pour les six attributs du personnage. La Force inflige plus de dégâts, la Dextérité aide à esquiver les attaques plus souvent, la Volonté augmente l’endurance ou le mana pour les Mages, la Magie augmente les dégâts des sorts et la défense magique, la Ruse améliore les tactiques de combat, et la Constitution augmente la santé du personnage.",
+      "Le joueur est souvent amené à faire des choix entre plusieurs options qui sont moralement ambiguës. Ces choix brisent la frontière manichéenne entre le bien et le mal qu’on voit souvent dans les œuvres de fantasy. Ils entraînent des conséquences qui influencent le monde et la progression du jeu, et peuvent même entraîner la mort d’un compagnon potentiel. De plus, les compagnons réagissent aux choix du joueur via un système d’approbation. La relation entre le joueur et un compagnon peut augmenter jusqu’à l’amitié voire la romance, lorsque ce compagnon fait partie des romances potentielles du jeu. La relation peut diminuer, jusqu’à entraîner le départ définitif du compagnon du groupe. Les points d’approbation peuvent aussi être influencés par les cadeaux.",
+      "À sa sortie, *Dragon Age: Origins* a été salué par la critique pour son univers riche, ses personnages profonds et ses choix moraux complexes. Il s’est vendu à plus de 3,2 millions d’exemplaires et à 1 million de contenus téléchargeables. Il a remporté plusieurs prix, dont les prix de Jeu de l’Année et du Meilleur Jeu de Rôle. Il a vu trois suites : *Dragon Age II* (2011), *Dragon Age: Inquisition* (2014) et *Dragon Age: The Veilguard* (2024). Il a marqué un retour en force pour les RPG occidentaux et a renforcé la réputation de BioWare en tant que studio spécialisé dans les jeux à histoire immersive."
     ],
     "image": "http://localhost:3000/assets/dragon-age-origins.webp"
   },
   {
+    "id":2,
+    "title": "Sonic Adventure",
+    "series": "Sonic",
+    "editor": "SEGA",
+    "studio": "Sonic Team",
+    "genres": ["Plateforme"],
+    "platforms": ["Dreamcast"],
+    "releaseDate": {
+      "america": "1999-09-09",
+      "europe": "1999-10-14",
+      "japon":"1998-12-23"
+    },
+    "description": [
+      "Développé par Sonic Team, *Sonic Adventure* est le premier jeu Sonic entièrement modélisé en 3D en 1998 sur Dreamcast. Le jeu marque la transition majeure de la série Sonic vers la 3D. C’est aussi le jeu le plus vendu sur Dreamcast avec 2,5 millions d'exemplaires vendues. Il a également reçu le label *Sega All Stars*. L’histoire met en scène Sonic et ses alliés face au Dr. Eggman, qui cherche à exploiter une entité ancienne, Chaos, afin de conquérir le monde. La particularité de ce jeu vidéo est qu’il a trois missions : plaire à ses fans, conquérir les nouveaux venus et promouvoir la Dreamcast.",
+      "Développé pour démontrer la puissance de la Dreamcast, *Sonic Adventure* avait pour objectif de moderniser la licence avec des environnements vastes et réalistes en 3D et des animations fluides. Ce jeu vidéo est aussi un renouveau, non seulement sur le plan du gameplay mais aussi sur le style artistique. C’est le premier jeu du Sonic moderne que nous connaissons aujourd’hui : corps plus fin, bras et jambes plus longues, épines plus grandes. Afin de montrer le dynamisme de Sonic dans un environnement en 3D, les développeurs ont utilisé une caméra dynamique qui ne resterait pas toujours derrière Sonic. Cela peut ainsi donner l’impression au joueur de ne pas être aussi rapide que Sonic (par exemple, quand il attaque un ennemi).",
+      "Afin de renforcer l’impression de vitesse tout en gardant la maîtrise de Sonic dans un environnement tridimensionnel, une nouvelle attaque a été inventée, et qui a été reprise dans les *Sonic* suivants : la *Homing Attack*, qui consiste à attaquer une cible verrouillée automatiquement. Une autre attaque est apparue, et elle-aussi reprise par la suite ; la *Light Attack*, qui permet de suivre les anneaux à une vitesse fulgurante.",
+      "Le scénario est beaucoup plus développé que dans les jeux *Sonic* précédents. Bien qu’Eggman soit toujours l’ennemi de Sonic, un nouvel ennemi a été créé : Chaos. Contrairement à Eggman qui veut conquérir le monde par ambition, Chaos veut le détruire par soif de vengeance. Ce qui en fait un meilleur ennemi qu’Eggman à cause de son passé qui justifie son rôle d’antagoniste. Le fait de pouvoir modéliser un personnage liquide et transparent démontre la puissance graphique du Dreamcast.",
+      "Jamais dans la série *Sonic* n’ont été proposés autant de personnages jouables. A côté de Sonic, le joueur peut jouer Tails, Amy, Knuckles et également deux nouveaux personnages inédits : Big et Gamma (ce dernier n’apparaissant que dans *Sonic Adventure*). Chacun a son propre style de gameplay. Sonic privilégie la vitesse et les phases dynamiques, tandis que d’autres personnages mettent l’accent sur l’exploration, la chasse aux trésors ou le tir. Le jeu introduit également le système des Chao, des animaux de compagnie fictifs que le joueur peut élever.",
+      "Bien que critiqué pour son système de caméra, des défauts de framerate et ses étapes de pêche avec Big, *Sonic Adventure* est très apprécié pour la profondeur de son scénario, son gameplay ludique, sa grande durée de vie, ses jolis graphismes colorés et sa bande-son dynamique. Il a contribué à consolider la transition de la licence *Sonic* vers la 3D, notamment avec la suite *[Sonic Adventure 2](/games/12)*.",
+      "Bien qu’il ait été bien reçu à sa sortie, il l’a été beaucoup moins lors des reportages sur d’autres plateformes plus récentes et lors de la sortie du remake *Sonic Adventure DX Director's Cut*. Le jeu *Sonic Adventure* a souffert d’un manque d’améliorations graphiques et de performance, ainsi que de corrections techniques. Il est ainsi vu comme un jeu qui a mal vieilli. Mais ce jeu reste très populaire dans la communauté des fans de Sonic. Même ceux qui n’y ont pas joué connaissent ce jeu tellement il a marqué les esprits."
+    ],
+    "image": "http://localhost:3000/assets/sonic-adventure.webp"
+  },
+  {
+    "id":3,
     "title": "The Elder Scrolls III: Morrowind",
     "series": "The Elder Scrolls",
     "editor": "Bethesda Softworks",
@@ -31,13 +62,17 @@
     },
     "description": [
       "*The Elder Scrolls III: Morrowind* est un RPG développé par Bethesda Game Studios et sorti en 2002. Le jeu se déroule sur l’île de Vvardenfell dans la province de Morrowind, un monde ouvert rempli de factions, de quêtes et de cultures diverses. Le joueur incarne le Nérévarine, la réincarnation d’un héros ancien, Nérévar. Il devra affronter le retour d’un ancien mal, Dagoth Ur.",
-      "Bethesda a développé *Morrowind* avec un moteur maison permettant un monde ouvert vaste et détaillé. Le développement a mis l’accent sur la liberté de jeu et la profondeur de l’univers. Les graphismes et la musique ont été conçus pour immerger le joueur dans un environnement unique et vivant.",
-      "*Morrowind* est un RPG en monde ouvert qui combine exploration, combat, magie et interactions sociales. Le joueur peut choisir sa race, sa classe et ses compétences. Le système de quêtes est flexible, permettant de multiples approches et conséquences selon les choix du joueur.",
-      "Le jeu a été acclamé pour sa liberté, son univers riche et sa profondeur. *Morrowind* a influencé de nombreux RPG ultérieurs et a renforcé la réputation de Bethesda pour les RPGs. Il a également posé les bases pour les suites de la franchise, *TES IV: Oblivion* et *TES V: Skyrim*."
+      "Lors de la création du personnage, le joueur doit choisir une classe. Mais s’il souhaite créer sa propre classe, il doit sélectionner 5 caractéristiques principales et 5 caractéristiques secondaires parmi les 27 proposées. Augmenter les caractéristiques principales et secondaires permet de faire augmenter le niveau général du personnage. Et pour augmenter ces caractéristiques, il suffit simplement de pratiquer. Par exemple, crocheter des serrures amène à augmenter le niveau de la Sécurité. C’est une chose qu’on voit rarement voire jamais dans les autres RPGs, qui proposent d’augmenter le niveau en faisant des quêtes. Cette caractéristique si particulière à la licence *The Elder Scrolls* ajoute une touche réaliste dans l’univers fantaisiste de *Morrowind* déjà très immersif.",
+      "Le réalisme est encore plus renforcé avec le système de dés ; plus le niveau d’une compétence augmente, plus le taux de succès est élevé. Ainsi, il arrive souvent qu’au début d’une partie, le joueur “touche” une fois sur deux un ennemi avec son épée. Mais au bout de trente heures de jeu, le taux de succès est près de 100%. La sensation de progrès y est présente.",
+      "En effet, la plus grande qualité du jeu vidéo (et de ses successeurs) est l’immersion. La richesse de l’univers invite le joueur à explorer Vvardenfell jusqu'aux moindres recoins. Ajoutons aussi les interactions avec l’environnement et les PNGs, qui permettent de déclencher ou valider des quêtes mais aussi d’apprendre plus sur le contexte politique et culturel de Vvardenfell. Bien que le dialogue avec les personnages soit exclusivement sous forme de textes, la complexité de l’univers suffit à attiser la curiosité du joueur pour en apprendre encore plus sur l’univers et poursuivre l’aventure.",
+      "L’originalité du jeu vidéo réside non seulement dans la liberté d’action offerte au joueur, mais aussi dans l’univers proposé. Quelques éléments de type steampunk se mêlent dans cet univers d’*heroic-fantasy*. La carte proposée aux joueurs est immense… Mais pas aussi immense que son prédécesseur, *Daggerfall*. Le jeu précédent proposait une carte beaucoup plus grande mais aussi plus vide. Ainsi, lors du développement du jeu *Morrowind*, les développeurs ont décidé de réduire la carte, afin de donner l’impression au joueur d’un univers riche, et non désertique. Rappelons aussi que la puissance du moteur du jeu permet de proposer plus de contenus que le prédécesseur. Mais la stratégie adoptée par l’équipe permet de compenser les limites de la technologie afin de donner l’immersion au joueur.",
+      "La musique de Morrowind, composée de 21 morceaux, a été composée par Jeremy Soule. Peu de voix sont enregistrées, beaucoup de dialogues étant simplement écrits.",
+      "A sa sortie, le jeu a été acclamé pour sa liberté, son univers riche et sa profondeur. *Morrowind* a influencé de nombreux RPG ultérieurs et a renforcé la réputation de Bethesda pour les RPGs. Il a également posé les bases pour les suites de la franchise, *The Elder Scrolls IV: Oblivion* et *[The Elder Scrolls V: Skyrim](/games/4)*. Le jeu a tellement marqué les esprits que certains joueurs, encore aujourd’hui, disent que *Morrowind* est le meilleur jeu de la licence."
     ],
     "image": "http://localhost:3000/assets/tes-morrowind.webp"
   },
   {
+    "id":4,
     "title": "The Elder Scrolls V: Skyrim",
     "series": "The Elder Scrolls",
     "editor": "Bethesda Softworks",
@@ -49,14 +84,24 @@
       "europe": "2011-11-11"
     },
     "description": [
-      "*The Elder Scrolls V: Skyrim* est un RPG développé par Bethesda Game Studios et sorti en 2011. L’histoire se déroule dans la province de Skyrim, déchirée par la guerre civile et menacée par le retour des dragons anciens. Le joueur incarne le Dragonborn, destiné à affronter le dragon légendaire Alduin.",
-      "*Skyrim* a été développé avec le moteur Creation Engine, offrant un monde vaste et immersif avec un niveau de détails élevé. Bethesda a accentué la liberté du joueur, l’exploration, le système de combat et la personnalisation, tout en intégrant des quêtes dynamiques.",
-      "*Skyrim* est un RPG en monde ouvert où le joueur explore des paysages, accomplit des quêtes, améliore ses compétences et interagit avec des PNG. Le jeu combine combat, magie, furtivité et choix moraux, offrant une expérience personnalisée et multiple fins possibles.",
-      "*Skyrim* a connu un succès commercial massif, devenant une référence des RPG. Il a influencé de nombreux jeux ultérieurs. Il reste populaire grâce à ses extensions et une communauté de joueurs investis pour la création de mods. *Skyrim* a consolidé la position de Bethesda comme leader dans le développement des RPG."
+      "*The Elder Scrolls V: Skyrim* est un RPG développé par Bethesda Game Studios et sorti en 2011. L’histoire se déroule dans la province de Skyrim, déchirée par la guerre civile et menacée par le retour des dragons anciens. Le joueur incarne le dernier Enfant de Dragon, destiné à affronter le dragon légendaire Alduin.",
+      "*Skyrim* se démarque de ses prédécesseurs par son accès plus grand public et son gameplay plus orienté vers l’action. Pour commencer, le système de classe a été abandonné. Le signe astrologique ne se choisit pas non plus au début de la partie mais durant l’aventure du joueur, et il peut être changé à tout moment. Ces abandons ont été faits au profit de la liberté. Cette liberté se renforce par les choix de faction, d’action et de dialogue durant les quêtes.",
+      "D’autres systèmes ayant existé dans les précédents *The Elder Scrolls* ont été retirés, comme la création de sorts, pour laisser place à de nouveaux systèmes comme l’artisanat (pour les armes et les armures).",
+      "Une autre nouveauté de cet opus est l’utilisation simultanée de deux mains au combat. Avant, notamment dans Oblivion, le joueur avait le choix entre porter une arme à deux mains ; une arme à une main accompagnée d’un bouclier ; et une main pour l’arme à une main et une autre main pour jeter des sorts. Dans *Skyrim*, deux choix supplémentaires sont offerts au joueur : avoir une arme à une main dans chaque main, ou utiliser ses deux mains pour jeter un sort encore plus puissant ou alterner deux sorts simultanément. Ainsi, le système de combat devient moins contraignant, plus dynamique.",
+      "Les points de santé et de magie se régénèrent en temps réel. Les potions de soin ne servent plus qu’à les redonner plus rapidement ou remplir toute la barre de santé ou de magie d’un coup si le joueur estime que c’est urgent.",
+      "Les monstres n'apparaissent plus selon le niveau du héros. L'intégralité du bestiaire est présente dès le début du jeu, mettant en avant le réalisme et la difficulté de survie (du moins, cette difficulté se ressent dans les niveaux Difficile, Expert et Légendaire). Toutefois, les monstres se calent au niveau du personnage, pour conserver une certaine cohérence avec la progression du joueur.",
+      "Contrairement à ses prédécesseurs, *Skyrim* propose au joueur des compagnons d’armes (qui ne sont pas des familiers invoqués). Le compagnon peut être recruté par duel, par l’argent ou après une quête. Le joueur peut lui donner des ordres, lui demander de porter des objets et même l’épouser (quand l’option est disponible). Dans le cas où le compagnon devient son époux, ce PNJ peut entretenir un magasin afin d’apporter de l’argent et faire un repas sous forme de consommable pour le joueur.",
+      "Une dernière nouveauté, et propre à *Skyrim*, est l’usage des Cris, un pouvoir propre aux Enfants de Dragon. Le joueur peut ainsi projeter ses ennemis, cracher du feu voire même, grâce au DLC *Dragonborn*, appeler un dragon pour le chevaucher. Chaque Cri est composé de trois mots. Plus le joueur prononce de mot, plus le Cri est puissant. Toutefois, après avoir utilisé un Cri, le joueur doit attendre un moment avant de pouvoir en utiliser un autre.",
+      "Durant le développement du jeu vidéo, une des préoccupations importantes des développeurs était de rendre le monde crédible. Il fallait d’abord éviter la répétitivité ; par exemple la conception des donjons. C’est pourquoi l’équipe était beaucoup plus importante pour *Skyrim* que pour *Oblivion*. L’environnement est aussi créé de manière plus réaliste que dans les précédents opus. Comme dans *[Morrowind](/games/3)* et *Oblivion*, *Skyrim* se situe dans une province de Tamriel tout en proposant des endroits géographiquement (marécages, banquises, etc.), socialement (les quartiers) et politiquement (Sombrages et Impériaux) différents.",
+      "*Skyrim* se distingue de ses prédécesseurs par son contenu important : 244 quêtes (sans compter les annexes répétitifs), plus de 300 points d'intérêt avec marqueur de carte et d’autres points d’intérêt.",
+      "*Skyrim* a connu un succès commercial massif, devenant une référence des RPG. *Skyrim* a consolidé la position de Bethesda comme leader mondial du RPG. Il a influencé de nombreux jeux ultérieurs comme *The Witcher III: Wild Hunt* (2015) de CD Projekt Red et *The Legend of Zelda: Breath of the Wild* (2017) de Nintendo. Il reste aujourd’hui encore populaire grâce à ses extensions et une communauté de joueurs investis dans la création de mods. Plusieurs éléments du jeu vidéo sont entrés dans la culture populaire, notamment le Cri du Déferlement, *'Fus Ro Da'*, plusieurs fois repris et détourné.",
+      "Malgré toutes les qualités louées au jeu et l’obtention du prix du *Best Game of the Year 2011*, les joueurs qui ont déjà joué à *Morrowind* et *Oblivion* reprochent à ce jeu une simplification excessive du gameplay, s’éloignant ainsi trop du caractère RPG. Ils remarquent aussi que la liberté d’action prend trop le pas sur les conséquences des choix. Malgré la multitude de quêtes par rapport aux épisodes précédents, l’écriture se révèle moins complexe, plus linéaire. Aussi, la quête principale, ainsi que les quêtes des factions, ne débouchent que sur une fin. Pour finir, malgré la beauté de l’environnement et l’immersion offerte par les combats épiques (bien que peu techniques) et la musique, l’univers paraît beaucoup moins complexe.",
+      "Toutefois, une vérité subsiste : *Skyrim* ouvre une nouvelle phase de l’existence de Bethesta ; celle des jeux Bethesda ouverts à un public plus large, plus épiques, plus simples et plus édulcorés que leurs prédécesseurs."
     ],
     "image": "http://localhost:3000/assets/tes-skyrim.jpg"
   },
   {
+    "id":5,
     "title": "Sonic the Hedgehog",
     "series": "Sonic",
     "editor": "SEGA",
@@ -68,14 +113,16 @@
       "europe": "1991-07-26"
     },
     "description": [
-      "*Sonic the Hedgehog* est un jeu de plateforme développé par Sega et sorti en 1991 sur Mega Drive. Le jeu introduit le personnage emblématique Sonic, le hérisson bleu capable qui court plus vite que le son. Puis, n’oublions pas son ennemi de toujours, le docteur Robotnik, qui capture des animaux pour les transformer en robots !",
-      "Sega a développé Sonic the Hedgehog pour rivaliser avec Mario de Nintendo. L’accent a été mis sur la vitesse, la fluidité des animations et les niveaux dynamiques. La conception musicale et graphique visait à créer un style unique et reconnaissable pour la mascotte Sonic, renforçant l’identité de la marque Sega.",
-      "Le joueur contrôle Sonic à travers différents niveaux, en collectant des anneaux, en affrontant des ennemis et en évitant les obstacles. La vitesse et le timing sont essentiels, et chaque niveau inclut des zones cachées et des bonus. Le jeu est connu pour son scrolling rapide et ses boss de fin de zone.",
-      "*Sonic the Hedgehog* a été un succès commercial immédiat, établissant Sonic comme la mascotte de Sega et un rival de Mario. Il a donné naissance à une longue série de jeux, bandes dessinées, dessins animés et produits dérivés. Sonic a contribué à populariser la Mega Drive et a marqué l’histoire des jeux de plateforme grâce à son gameplay rapide et son design distinctif."
+      "*Sonic the Hedgehog* est un jeu de plateforme développé par Sega et sorti en 1991 sur Mega Drive. Le jeu introduit le personnage emblématique Sonic, le hérisson bleu supersonique, et son ennemi juré Dr Ivo Robotnik, surnommé Eggman.",
+      "Face au succès de Mario, mascotte de Nintendo, Sega ne faisait pas le poids avec Alex Kidd. Il fallait qu’il change de mascotte. Un concours est organisé dans l'entreprise et plusieurs personnages sont proposés, dont un homme moustachu en pyjama, qui deviendra par la suite Eggman, l'antagoniste du jeu. Le hérisson bleu a été choisi. Ce jeu vidéo utilise une technique inventée par Yuji Naka, un des créateurs de Sonic The Hedgehog. Elle permet d’adapter le scrolling en fonction de la vitesse de Sonic. Ainsi, le joueur a la sensation de vitesse sans que Sonic ne sorte de l’écran.",
+      "Le gameplay se base sur la vitesse. Le level design se constitue de pentes, de loopings verticaux et de ressorts qui permettent à Sonic d’accélérer. Les points de vie de Sonic sont les anneaux ; si Sonic en possède lorsqu’il se fait toucher, il les perd, sinon il meurt. Il gagne une vie supplémentaire s’il atteint 100 anneaux. Le bestiaire est constitué de robots qui enferment des animaux : quand Sonic en détruit un, un animal est libéré. Le jeu vidéo se caractérise par des niveaux colorés et une conception musicale dynamique.",
+      "Le jeu est constitué de six zones principales. Chaque zone principale possède trois actes, la dernière acte se terminant par un combat de boss. Si à la fin de l’acte 1 ou 2, Sonic possède au moins 50 anneaux, il atterrit dans un niveau spécial (*Special Stage*) qui ressemble à un labyrinthe flottant où il doit récupérer une Émeraude du Chaos. Seulement dix occasions sont offertes à Sonic pour récupérer une Émeraude du Chaos. Le jeu ayant six Émeraude du Chaos, Sonic peut échouer seulement quatre fois. Seules les versions Game Gear et Master System offrent la possibilité au joueur de gagner une chance supplémentaire de récupérer une Émeraude. Le jeu ne comptant que six Émeraudes, elles ne servent qu’à obtenir la bonne fin du jeu. La septième Émeraude et la forme Super Sonic n'apparaîtront qu’au jeu Sonic suivant.",
+      "*Sonic the Hedgehog* a été un succès commercial immédiat, établissant Sonic comme la mascotte de Sega et un rival de Mario. Il a donné naissance à une longue série de jeux vidéo, bandes dessinées, films, séries animées et autres produits dérivés. Sonic a contribué à populariser la Mega Drive et a marqué l’histoire des jeux de plateforme grâce à son gameplay rapide et son design distinctif."
     ],
     "image": "http://localhost:3000/assets/sonic-the-hedgehog-1.jpg"
   },
   {
+    "id":6,
     "title": "Silent Hill 2 Remake",
     "series": "Silent Hill",
     "editor": "Konami",
@@ -87,14 +134,16 @@
       "europe": "2024-10-08"
     },
     "description": [
-      "*Silent Hill 2 Remake* est une relecture moderne du célèbre survival horror sorti initialement en 2001. Le jeu suit James Sunderland, un homme tourmenté qui se rend dans la ville brumeuse de Silent Hill après avoir reçu une lettre de sa femme décédée. L’histoire explore des thèmes profonds tels que le deuil, la culpabilité et la dépression, faisant de *Silent Hill 2* l’un des récits psychologiques les plus marquants du jeu vidéo.",
-      "Le remake est développé par Bloober Team en collaboration avec Konami. L’objectif principal était de moderniser l’expérience tout en respectant l’œuvre originale. Le jeu utilise l’Unreal Engine 5 afin d’offrir des graphismes réalistes, une gestion avancée de la lumière et des environnements plus immersifs. Akira Yamaoka revient à la composition musicale, garantissant une continuité sonore fidèle, tandis que les personnages et les dialogues ont été retravaillés pour renforcer l’impact émotionnel.",
-      "*Silent Hill 2 Remake* adopte une vue à la troisième personne, plus proche des standards modernes du survival horror. Le gameplay met l’accent sur l’exploration, la résolution d’énigmes et la survie, avec des combats volontairement lourds et stressants. Les environnements évoluent de manière plus organique, renforçant l’angoisse et le sentiment d’isolement du joueur. La manière de jouer influence la fin du jeu.",
-      "Très attendu par les fans de longue date, *Silent Hill 2 Remake* a suscité de nombreuses discussions autour de la fidélité aux œuvres cultes et de la modernisation des classiques. Son approche respectueuse du matériau original, combinée à des technologies modernes, a contribué à raviver l’intérêt pour la franchise *Silent Hill*. Le remake a également renforcé la légitimité de Bloober Team dans le domaine de l’horreur psychologique et a marqué le retour de la saga sur le devant de la scène vidéoludique."
+      "*Silent Hill 2 Remake* est une relecture moderne du célèbre survival horror sorti initialement en 2001. Le jeu suit James Sunderland, un homme tourmenté qui se rend dans la ville brumeuse de Silent Hill après avoir reçu une lettre de sa femme décédée. L’histoire explore des thèmes profonds ou tabou, qui ont fait de *Silent Hill 2* l’original (2001) l’un des récits psychologiques les plus marquants du jeu vidéo.",
+      "Le remake est développé par Bloober Team en collaboration avec Konami. L’objectif principal était de moderniser l’expérience tout en respectant l’œuvre originale. Le jeu utilise l’Unreal Engine 5 afin d’offrir des graphismes réalistes, une gestion avancée de la lumière et des environnements plus immersifs. Akira Yamaoka revient à la composition musicale, garantissant une continuité sonore fidèle, tandis que les personnages et les dialogues ont été retravaillés pour renforcer l’impact émotionnel et adapter le jeu à l’époque actuelle.",
+      "*Silent Hill 2 Remake* adopte une vue qui n’est plus de dessus mais à la troisième personne, plus proche des standards modernes du survival horror. Le gameplay met l’accent sur l’exploration, la résolution d’énigmes et la survie. La mécanique de combat se veut lourde et stressante, afin de faire ressentir au joueur la faiblesse face à un ennemi. Les environnements évoluent de manière plus organique, renforçant l’angoisse et le sentiment d’isolement du joueur. La manière de jouer influence la fin du jeu : Silent Hill 2 possède 8 fins, dont 2 inédites au remake.",
+      "Ce type de gameplay, lent et stressant, était déjà présent dans le jeu original, ce qui différenciait la licence de Resident Evil. Mais les éléments qui modernisent ce remake sont directement inspirés des derniers remakes de Resident Evil. Voilà un paradoxe pour une licence qui cherchait à se distinguer des autres jeux d’horreur auparavant.",
+      "Très attendu par les fans de longue date, *Silent Hill 2 Remake* a suscité de nombreuses discussions autour de la fidélité aux œuvres cultes et de la modernisation des classiques. Son approche respectueuse du matériau original, combinée à des technologies modernes, a contribué à raviver l’intérêt pour la franchise *Silent Hill* (rappelons que Konami n’a plus sorti de Silent Hill depuis douze ans). Le remake a également renforcé la légitimité de Bloober Team dans le domaine de l’horreur psychologique et a marqué le retour de la saga sur le devant de la scène vidéoludique. Un an plus tard, sort *Silent Hill f* qui a été un grand succès ! Pour finir, un autre jeu, *Silent Hill: Townfall*, est en cours de développement et a sorti un *teaser* récemment."
     ],
     "image": "http://localhost:3000/assets/silent-hill-2-remake.avif"
   },
   {
+    "id":7,
     "title": "Detroit: Become Human",
     "series": "Detroit",
     "editor": "Sony Interactive Entertainment",
@@ -106,11 +155,130 @@
       "europe": "2018-05-25"
     },
     "description": [
-      "*Detroit: Become Human* est un jeu narratif développé par Quantic Dream et sorti en 2018. L’histoire se déroule en 2038, à Détroit (Etats-Unis). Des androïdes coexistent avec les humains mais sont traités comme des objets. Le joueur suit trois androïdes, chacun ayant son propre point de vue sur le monde où les tensions entre humains et androïdes augmentent. Ces trois histoires parallèles permettent aux joueurs de se poser des questions sur la conscience, l’éthique et la liberté.",
-      "Le jeu a été fait par *motion capture* afin de rendre les personnages expressifs, plus humains, afin d’inciter l’empathie chez les joueurs. *Detroit: Become Human* utilise un moteur propriétaire permettant des animations faciales détaillées et des choix multiples qui ont des conséquences sur l’histoire.",
-      "*Detroit: Become Human* est un jeu narratif, où le joueur contrôle plusieurs personnages et prend des décisions qui influencent le déroulement de l’histoire. Le gameplay combine exploration, QTE, dialogues interactifs et prises de décision morales. L’histoire est construite selon un système de branches multiples qui n’étaient pas consultables dans les jeux précédents de Quantic Dream. Cela incite le joueur à explorer d’autres fins alternatives.",
-      "Le jeu a été acclamé par la critique pour ses graphismes, son scénario et sa capacité à aborder des thèmes matures tels que l’intelligence artificielle et les droits civiques. *Detroit: Become Human* a connu un grand succès commercial, renforçant la réputation de Quantic Dream pour les jeux narratifs interactifs. Le jeu a également généré des discussions sur les questions éthiques liées à l’IA. Il est devenu un exemple majeur de l’évolution du jeu vidéo vers des expériences narratives immersives."
+      "*Detroit: Become Human* est un jeu narratif développé par Quantic Dream et sorti en 2018. L’histoire se déroule en 2038, à Détroit (Etats-Unis), où les androïdes servent les humains. Le joueur suit trois androïdes, chacun ayant son propre point de vue sur le monde où les tensions entre humains et androïdes augmentent. Ces trois histoires parallèles permettent aux joueurs de se poser des questions sur la conscience, l’éthique et la liberté.",
+      "*Detroit: Become Human* est un jeu narratif, où le joueur contrôle plusieurs personnages et prend des décisions qui influencent le déroulement de l’histoire. Le gameplay combine exploration, QTE, dialogues interactifs et prises de décision morales. L’histoire est construite selon un système de branches multiples qui n’étaient pas consultables dans les jeux précédents de Quantic Dream. Cela incite le joueur à explorer d’autres fins alternatives. Il arrive même que certains chapitres soient bloqués à cause d’événements particuliers. Les conséquences varient selon les choix du joueur, les relations entretenues avec les PNGs, de la réputation du joueur et de l’opinion publique.",
+      "Le projet de Detroit: Become Human naît d’une démo faite en amont d’un autre jeu de Quantic Dream, *Beyond Two Souls* (2012). Intitulée *Kara*, elle avait pour objectif de représenter la performance graphique du nouveau moteur de jeu et les techniques de *motion capture*. Le personnage principal était joué par Valorie Curry. Le développement de *Detroit: Become Human* débute en 2014 et Valorie Curry reprend son rôle.",
+      "Déjà réputé pour ses prouesses en *motion capture*, *Detroit: Become Human* renforce sa réputation non seulement grâce à la puissance offerte par la PS4, mais aussi grâce à la qualité de la narration, des embranchements multiples et du jeu d’acteur incitant l’empathie du joueur. Comme il s'agissait du premier jeu du studio exclusivement développé sur Playstation 4, cela a permis en même temps d’asseoir une bonne réputation de cette console.",
+      "Le jeu a été acclamé par la critique pour ses graphismes, son scénario et sa capacité à aborder des thèmes matures tels que l’intelligence artificielle et les droits civiques. *Detroit: Become Human* a connu un grand succès commercial, renforçant la réputation de Quantic Dream pour les jeux narratifs interactifs. Il est devenu un exemple majeur de l’évolution du jeu vidéo vers des expériences narratives immersives."
     ],
     "image": "http://localhost:3000/assets/detroit-become-human.jpg"
+  },
+  {
+    "id":8,
+    "title": "Tomb Raider (2013)",
+    "series": "Tomb Raider",
+    "editor": "Square Enix",
+    "studio": "Crystal Dynamics",
+    "genres": ["Action","Aventure"],
+    "platforms": ["PC","PlayStation 3","PlayStation 4","Xbox 360","Xbox One","Nintendo Switch"],
+    "releaseDate":{
+      "america": "2013-03-05",
+      "europe": "2013-03-05"
+    },
+    "description": [
+      "*Tomb Raider* (2013) est un reboot de la série *Tomb Raider*. Développé par Crystal Dynamics et édité par Square Enix, le jeu raconte les origines de Lara Croft. C'est également le premier *Tomb Raider* à introduire le mode multijoueur. Ce mode a été créé par le studio de développement canadien Eidos Montréal, connu pour *Deus Ex: Human Revolution*. L’histoire débute lorsque l’expédition de Lara fait naufrage sur une île mystérieuse appelée Yamatai. Isolée et traquée par un culte dangereux, Lara doit apprendre à survivre et à devenir la célèbre aventurière que nous connaissons.",
+      "Les développeurs ont voulu moderniser la série en mettant l’accent sur une narration plus réaliste et sur l’évolution psychologique de Lara. Le moteur graphique a permis de créer des environnements détaillés et dynamiques. Les personnages sont interprétés par des acteurs ; Camilla Luddington joue Lara Croft. L’équipe s’est inspirée de jeux d’action-aventure modernes (dont *Uncharted*) pour introduire des éléments de progression, d’exploration et de survie, tout en conservant les énigmes et les tombeaux caractéristiques de la franchise. Dans ce jeu, Lara de bat avec un arc, des armes à feu et différents outils pour survivre et progresser. Le système d’amélioration permet de développer les compétences et l’équipement du personnage.",
+      "*Tomb Raider* a été très bien accueilli par la critique et les joueurs. Beaucoup de sites décrivent ce Tomb Raider comme la « Renaissance de Lara Croft ». Le jeu a relancé la franchise avec succès et a donné naissance à une nouvelle trilogie : *Rise of the Tomb Raider* et *Shadow of the Tomb Raider*. Cette nouvelle version de Lara Croft, plus humaine et vulnérable, a contribué à renouveler l’image du personnage et à attirer une nouvelle génération de joueurs, ainsi que les fans d’*Uncharted*, car ce jeu s'en inspire grandement.",
+      "En avril 2013, 3,4 millions de copies du jeu avaient été vendues, un résultat en dessous des prévisions de Square Enix qui en attendait 6 millions. Ajouté aux ventes décevantes de *Hitman: Absolution* et *Sleeping Dogs*, *Tomb Raider* a provoqué la démission du président de Square Enix Yōichi Wada. Cela n'a pas empêché le développement de la suite, *Rise of the Tomb Raider*. Mais en novembre 2017, grâce à diverses promotions et rééditions, la vente du jeu monte à 11 millions d'exemplaires. Il est de fait l'épisode s'étant le mieux vendu de toute la franchise *Tomb Raider*. Le jeu a servi de base au nouveau film *Tomb Raider* (2018) de Roar Uthaug. Le personnage de Lara Croft est interprété par Alicia Vikander."
+    ],
+    "image": "http://localhost:3000/assets/tomb-raider-2013.jpg"
+  },
+  {
+    "id":9,
+    "title": "Resident Evil 2 (2019)",
+    "series": "Resident Evil",
+    "editor": "Capcom",
+    "studio": "Capcom",
+    "genres": ["Horreur"],
+    "platforms": ["PC","PlayStation 4","Xbox One","Nintendo Switch"],
+    "releaseDate":{
+      "america": "2019-01-25",
+      "europe": "2019-01-25",
+      "japon": "2019-01-25"
+    },
+    "description": [
+      "*Resident Evil 2*, le remake du jeu original sorti en 1998, est un jeu d’horreur développé et édité par Capcom en 2019. Ce jeu suit Leon S. Kennedy et Claire Redfield alors qu’ils tentent de survivre à une épidémie zombie à Raccoon City.",
+      "Développé avec le moteur RE Engine, le remake a été conçu pour moderniser l’expérience vidéoludique tout en respectant l’œuvre originale. Les développeurs ont repensé les environnements, le système de caméra et les mécaniques de combat pour offrir une immersion accrue de l’horreur et rester dans les standards modernes. Ainsi, la vue n’est plus de dessus mais à la troisième personne, semblable à celle de *Resident Evil 4*. Le système de sauvegarde, bien que les développeurs ont repris celui du jeu original, peut être automatique à certains moments clés de l’histoire, afin de ne pas trop frustrer le joueur. Même la sauvegarde manuelle en elle-même est illimitée, du moins dans les difficultés Facile et Normal. Le gameplay repose sur la gestion des ressources limitées, la résolution d’énigmes et l’exploration du commissariat de police et d’autres lieux emblématiques.",
+      "Le joueur a la possibilité de choisir entre Leon Kennedy et Claire Redfield. Une fois qu’il termine le scénario de l’un, il peut commencer le scénario B de l’autre. Ce scénario est similaire au scénario A, mais avec des lieux déjà déverrouillés par le premier protagoniste, de légers changements dans le scénario du jeu et des emplacements d'objets différents. Terminer le scénario B est nécessaire pour accéder à la vraie fin du jeu.",
+      "*Resident Evil 2* le remake a été salué par la critique et les joueurs pour sa fidélité modernisée. Il a renforcé la renaissance de la franchise *Resident Evil* (renaissance déjà lancée par *Resident Evil 7*) et démontré qu’un remake peut être à la fois respectueux et innovant. Son succès a encouragé la production d’autres remakes de *Resident Evil* ainsi que d’autres studios à faire autant avec leurs propres séries (par exemple, *Silent Hill 2*)."
+    ],
+    "image": "http://localhost:3000/assets/resident-evil-2-remake.webp"
+  },
+  {
+    "id":10,
+    "title": "Cyberpunk 2077",
+    "series": "Cyberpunk",
+    "editor": "CD Projekt",
+    "studio": "CD Projekt RED",
+    "genres": ["RPG","Action","Aventure"],
+    "platforms": ["PlayStation 4","PlayStation 5","Xbox One","Xbox Series X/S"],
+    "releaseDate":{
+      "america": "2020-12-20",
+      "europe": "2020-12-20"
+    },
+    "description": [
+      "*Cyberpunk 2077* est un RPG en vue à la première personne développé par CD Projekt Red, sorti en 2020 et inspiré du jeu de rôle sur table *Cyberpunk 2020* de Mike Pondsmith. Le jeu se déroule dans une mégapole dystopique, Night City, dominée par les mégacorporations. Le joueur incarne V, un mercenaire cherchant à survivre dans un monde où technologie et humanité s’entremêlent dangereusement.",
+      "Le jeu vidéo propose une uchronie : les États-Unis s’enlisent dans des guerres en Amérique centrale durant les années 1980, affaiblissant gravement leur puissance et leur économie. L'effondrement de l'Union soviétique n'a pas eu lieu, tandis que le Japon émerge comme une superpuissance, diffusant sa culture jusqu’en Californie.",
+      "Annoncé en 2012, *Cyberpunk 2077* était l’un des projets les plus ambitieux du studio après le succès de *The Witcher 3*. Développé avec le moteur REDengine, le jeu visait à proposer un monde ouvert dense, une narration mature et une forte personnalisation du personnage. Cependant, sa sortie a été marquée par de nombreux problèmes techniques, particulièrement sur les consoles de génération précédente, entraînant mises à jour majeures et correctifs post-lancement. Ainsi, *Cyberpunk 2077* est l’un des lancements les plus désastreux de l'histoire vidéoludique. Alors que CD Projekt Red était, plusieurs mois avant la sortie du jeu, l'entreprise la plus cotée de Pologne, en juillet 2022, l'entreprise ne vaut plus que 25% de sa valeur financière initiale. Ces défauts de performance se voient surtout sur les plateformes PlayStation 4 et Xbox One.",
+      "V est entièrement personnalisable par le joueur : cheveux, voix, sexe… Il peut notamment choisir l'origine : Nomade, Corpo ou Gosse des rues. Elle influence l'interaction avec les PNGs. Il peut ensuite répartir les points dans les cinq attributs principaux : constitution, intelligence, réflexes, capacité technique et sang-froid. Une sixième statistique, appelée « Relic », est introduite avec l'extension *Phantom Liberty*.",
+      "Le gameplay combine exploration, combats, piratage informatique et dialogues à choix multiples. Les décisions prises en cours de partie façonnent la personnalité de V et peuvent mener à différentes conclusions. Les compétences, implants cybernétiques et décisions narratives influencent l’expérience et les différentes fins possibles. Certaines compétences peuvent être débloquées ou améliorées grâce à des implants cybernétiques installés par un “charcudoc”. Certains personnages de Night City ne parlent pas la même langue que V, mais leurs dialogues peuvent être traduits via des implants cybernétiques.",
+      "*Cyberpunk 2077* propose trois styles de jeu principaux : Netrunner, Solo et Technicien. Le Netrunner est un expert en piratage informatique. Le Solo est un combattant aguerri, spécialisé dans les affrontements directs et la maîtrise des armes. Le Technicien est un spécialiste de l'ingénierie et de la manipulation technologique. Les armes à distance se répartissent en trois catégories : cinétiques (projectiles avec possibilité de ricocher sur des surfaces), techniques (projectiles capables de pénétrer des surfaces solides) et intelligentes (projectiles guidés nécessitant des implants spécifiques).",
+      "Les missions se divisent en deux catégories : les missions principales, formant des arcs narratifs, et dont le contenu est susceptible de changer selon le comportement du joueur, et les missions annexes, qui sont facultatives mais sont néanmoins intégrées au récit et peuvent influencer la fin du jeu.",
+      "Les forces de l'ordre peuvent intervenir si V enfreint la loi, selon un système d'étoiles similaire à celui de la série *Grand Theft Auto*. Depuis la mise à jour 2.0, si cinq étoiles sont atteintes, une force d'intervention d'élite, la MaxTac, débarque, constituée d'ennemis bien plus difficiles à combattre.",
+      "Le personnage Johnny Silverhand est interprété par Keanu Reeves en motion capture. Silverhand possède le plus grand nombre de dialogues après celui de V. Un autre acteur bien connu, Idris Elba, a joué Solomon Reed pour l'extension *Phantom Liberty*.",
+      "Malgré un lancement controversé, *Cyberpunk 2077* a connu une réhabilitation progressive grâce à de nombreuses mises à jour et améliorations. Le jeu a finalement été salué pour sa narration, son univers riche et sa direction artistique. Il est devenu un exemple marquant des défis liés aux productions AAA ambitieuses.",
+      "Le jeu contient près d'1,1 million de mots, accessible en dix-neuf langues différentes, dont onze nécessitent le doublage de 82 000 lignes de texte. L'extension *Phantom Liberty* ajoute 450 000 mots au script et 25 000 lignes à doubler. 2 456 personnes sont listées au générique pour ce travail, dont vingt employés permanents du studio et 1 966 doubleurs.",
+      "Estimé entre 376 et 388 millions de dollars de budget (dont 60 millions de dollars pour *Phantom Liberty*) selon différentes sources, *Cyberpunk 2077* est un des jeux les plus coûteux dans l'industrie vidéoludique. ",
+      "Le jeu s'est vendu à plus de 30 millions d'exemplaires en novembre 2024, permettant la mise en chantier d'une suite. Il a reçu de nombreuses récompenses et nominations, dont le Games Awards 2023 du meilleur jeu en évolution pour l'extension *Phantom Liberty*. Il est également adapté en série animée *Cyberpunk: Edgerunners*, diffusée sur Netflix en 2022."
+    ],
+    "image": "http://localhost:3000/assets/cyberpunk-2077.jpg"
+  },
+  {
+    "id":11,
+    "title": "Tomb Raider : L'Ange des ténèbres",
+    "series": "Tomb Raider",
+    "editor": "Eidos Interactive",
+    "studio": "Core Design",
+    "genres": ["Action", "Aventure"],
+    "platforms": ["PlayStation 2","PC"],
+    "releaseDate":{
+      "america": "2003-06-20",
+      "europe": "2003-07-09",
+      "japon": "2003-10-23"
+    },
+    "description": [
+      "Développé par Core Design en 2003, *Tomb Raider : L’Ange des ténèbres* est le sixième épisode de *Tomb Raider*. Lara Croft, l'héroïne du jeu, est dans l'appartement de son ancien mentor Werner Von Croy quand celui-ci meurt terrassé mystérieusement. Lara Croft mène alors une enquête à Paris et découvre une conspiration liée à une société secrète et à d’anciens artefacts mystérieux.",
+      "*L'Ange des Ténèbres* s'éloigne beaucoup du concept de *Tomb Raider* car la recherche de tombeaux est remplacée par la résolution d'un crime, et la majorité des lieux visités ne sont plus des tombes et cavernes mais les rues de Paris et de Prague. Le jeu introduit également Kurtis Trent comme personnage jouable dans certaines sections, offrant une perspective différente sur l’histoire. Ce dernier avait été créé afin de devenir le protagoniste d'une licence dérivée. Le ton est aussi beaucoup plus sombre ; les développeurs souhaitaient que le jeu s'aligne avec les jeux qui fonctionnaient à l'époque sur le marché.",
+      "La grande nouveauté vient de l'amélioration de la qualité visuelle, le moteur du jeu étant entièrement réécrit à partir de zéro afin d'utiliser les dernières technologies. L’équipe souhaitait également introduire un système de progression pour Lara, de nouveaux personnages jouables et une intrigue plus complexe.",
+      "Le jeu a été développé pour la PlayStation 2 avec l’objectif de moderniser la série et de lui donner une atmosphère plus sombre et narrative. Le développement du jeu a débuté trois ans avant sa sortie. Les développeurs étaient scindés en deux équipes : l'une pour *Sur les traces de Lara Croft*, le jeu précédent, et l'autre pour *L’Ange des ténèbres*. Ce dernier projet était appelé *Tomb Raider next generation*. *Sur les traces de Lara Croft* ayant atteint les limites de la PlayStation 1, il était évident que le prochain jeu sorte sur la PlayStation 2. Après avoir terminé *Sur les traces de Lara Croft*, le programmeur en chef Richard Morton passa voir le travail de la nouvelle équipe et découvrit que celle-ci était loin d'avoir terminé le jeu, et qu'elle avait même dû reprendre le projet presque à zéro.",
+      "Cependant, le développement du jeu a connu une production difficile incluant plusieurs suppressions notables d’éléments de gameplay, pour finalement sortir un épisode inachevé avec de nombreuses incohérences et bugs. Eidos avait en effet précipité la sortie du jeu pour qu'il corresponde à la sortie du film *Lara Croft : Tomb Raider – Le berceau de la vie*.",
+      "À l'origine, *L'Ange des ténèbres* devait être le premier épisode d'une trilogie censée expliquer comment Lara avait survécu à son accident à la fin du quatrième épisode. La trilogie ne s'est finalement jamais poursuivie et cet élément de l'histoire de Lara reste aujourd'hui encore un mystère. Il existe cependant une scène qui explique comment Lara a survécu, mais celle-ci n’a pas été incluse dans le jeu.",
+      "Le jeu fut un échec critique et commercial, ce qui entraîna la faillite du studio Core Design. Les deux suites prévues furent annulées et la licence passa ensuite aux mains de Crystal Dynamics. Quelques années plus tard, *L'Ange des ténèbres* acquit une certaine notoriété pour son utilisation expérimentale de plusieurs fonctionnalités de gameplay qui se sont répandues par la suite, telles que des éléments de jeu de rôle, une jauge d'endurance et le mélange d'atmosphères issues de plusieurs genres de jeux vidéo."
+    ],
+    "image": "http://localhost:3000/assets/tomb-raider-ange-des-tenebres.jpeg"
+  },
+  {
+    "id":12,
+    "title": "Sonic Adventure 2",
+    "series": "Sonic",
+    "editor": "SEGA",
+    "studio": "Sonic Team",
+    "genres": ["Plateforme"],
+    "platforms": ["Dreamcast"],
+    "releaseDate": {
+      "america": "2001-06-19",
+      "europe": "2001-06-23",
+      "japon":"2001-06-23"
+    },
+    "description":[
+      "Après le succès de *[Sonic Adventure](/games/2)*, Sonic Team développe *Sonic Adventure 2*, sorti en 2001 sur Dreamcast. Ce jeu marque une étape importante dans l’évolution de la licence, en approfondissant les bases posées par son prédécesseur tout en apportant une structure plus ambitieuse et narrative. Il s’agit également du dernier jeu *Sonic* sorti sur Dreamcast, peu avant l’arrêt de la fabrication de consoles par Sega.",
+      "Contrairement au premier opus, *Sonic Adventure 2* introduit une dualité scénaristique entre les héros et les antagonistes. Le joueur peut ainsi suivre deux campagnes distinctes : le camp des héros, avec Sonic, Tails et Knuckles, et le camp des vilains, avec Eggman, Shadow et Rouge. Ces deux histoires débouchent sur une histoire finale (débloquée après avoir terminé les deux campagnes).",
+      "Le jeu conserve plusieurs styles de gameplay introduits par le premier épisode, mais les affine en les répartissant clairement entre les personnages. Les phases de vitesse sont réservées à Sonic et Shadow, mettant l’accent sur des niveaux linéaires rapides et spectaculaires. Tails et Eggman proposent des phases de tir, tandis que Knuckles et Rouge se concentrent sur la chasse aux trésors. Cette spécialisation rend le gameplay plus lisible mais plus cloisonné que dans *Sonic Adventure*.",
+      "Parmi les nouveautés majeures, le jeu introduit le système de notation des niveaux, encourageant le joueur à rejouer pour améliorer ses performances. Le Chao Garden fait également son retour sous une forme enrichie, avec plus de possibilités d’élevage et d’interactions.",
+      "Sur le plan narratif, *Sonic Adventure 2* se distingue par une histoire plus sombre et plus dramatique. Le personnage de Shadow, créé spécialement pour cet opus, apporte une dimension émotionnelle forte avec son passé sombre. Le jeu aborde des thèmes plus sérieux comme la vengeance, le sacrifice et la rédemption, ce qui tranche avec le ton plus léger des jeux *Sonic* précédents, même par rapport au premier *Sonic Adventure*.",
+      "Cependant, comme son prédécesseur, le jeu n’est pas exempt de défauts. Certaines mécaniques, notamment la chasse aux trésors, ont été critiquées pour leur répétitivité. Le système de caméra et les contrôles peuvent également poser problème dans certaines situations. Malgré cela, le jeu est largement salué pour son ambition, sa bande-son marquante et son scénario mémorable.",
+      "*Sonic Adventure 2* est devenu un jeu culte au sein de la communauté. Shadow the Hedgehog est devenu tellement populaire que la Sonic Team l’a fait revenir dans *Sonic Heroes* alors qu’il a été créé seulement pour *Sonic Adventure 2* (il est mort à la fin de ce jeu vidéo). Même un spin-off lui a été entièrement consacré, *Shadow the Hedgehog*, sorti en 2005, mais il est toutefois très critiqué à cause de son gameplay et de son ton un peu sombre. Ce sera la mauvaise réception de *Sonic the Hedgehog* (2006), très connu pour ses nombreux bugs et autres défauts notables, qui donnera le rôle de simple personnage secondaire à Shadow the Hedgehog, même s’il reste populaire parmi les fans de Sonic. Il redeviendra jouable dans *Sonic x Shadow Generations* (2024), pendant la campagne marketing de Sega *‘Fearless: Year of Shadow’*."
+    ],
+    "image":"http://localhost:3000/assets/sonic-adventure-2.webp"
   }
 ]

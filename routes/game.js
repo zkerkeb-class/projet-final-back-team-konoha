@@ -2,7 +2,7 @@ import express from "express";
 import game from "../schema/game.js";
 
 const router = express.Router();
-const limit = 5;
+const limit = 6;
 
 router.get('/', async (req, res) => {
   try {
@@ -57,7 +57,7 @@ router.get('/search', async (req, res) => {
 
 router.get("/:id", async (req, res) => {
   try {
-    const gameFound = await game.findById(req.params.id);
+    const gameFound = await game.findOne({id:Number(req.params.id)});
     if (!gameFound) {
       return res.status(404).json({ message: "Jeu non trouvé" });
     }
