@@ -1,0 +1,636 @@
+[
+{
+    "id":1,
+    "title": "*Dragon Age: Origins* : Quelle classe choisir ?",
+    "content":[
+        {
+            "type":"text",
+            "content":"Choisir la bonne classe dans un jeu de rôle est crucial pour profiter pleinement de l’aventure. Mais quand on joue pour la première fois, ce n’est pas toujours évident. Chaque classe offre un style de jeu unique et influencera la manière dont vous aborderez les combats. Dans *Dragon Age: Origins*, il existe trois classes."
+        },
+        {
+            "type":"text",
+            "content":"La classe **Guerrier** est idéale pour les joueurs débutants ou ceux qui aiment se trouver au cœur de l’action. Les Guerriers sont spécialisés dans le combat corps à corps et possèdent une grande résistance aux dégâts. Si vous choisissez un Guerrier, vous aurez l’avantage de pouvoir vous concentrer sur les bases du combat sans être trop pénalisés par la gestion complexe des compétences à distance ou magiques. Cependant, les Guerriers sont moins polyvalents que les autres classes : ils ont peu d’options pour attaquer à distance et doivent prêter attention à leur équipement pour maximiser leur efficacité."
+        },
+        {
+            "type":"text",
+            "content":"La classe **Mage** est idéale pour les joueurs qui aiment la stratégie et la variété, ainsi que pour ceux qui préfèrent se battre à distance. Les Mages utilisent des sorts pour attaquer, se défendre et soutenir leurs alliés. Cette classe offre une grande polyvalence, car elle permet de choisir différents types de sorts selon le style de jeu : offensif, défensif ou de soutien. Les Mages peuvent soigner, infliger de lourds dégâts magiques ou neutraliser des ennemis puissants. Leur principale faiblesse est leur fragilité : un mage mal protégé peut mourir rapidement. Il faut donc apprendre à gérer ses points de magie, à se placer correctement sur le champ de bataille et à utiliser intelligemment ses compétences pour survivre. Cette classe n’est toutefois pas disponible si vous choisissez un Nain."
+        },
+        {
+            "type":"text",
+            "content":"La classe **Voleur** est recommandée pour les joueurs qui apprécient la furtivité et la rapidité. Les Voleurs excellent dans les attaques surprises et la manipulation des pièges. Ils permettent de venir à bout des ennemis sans passer par un combat direct, et ils peuvent infliger des dégâts importants en ciblant les points faibles des ennemis. Cette classe est plus complexe à maîtriser, car les Voleurs sont fragiles et nécessitent de rester constamment mobiles et attentifs à l’environnement. Jouer un Voleur demande donc un peu plus de stratégie et d’anticipation."
+        },
+        {
+            "type":"text",
+            "content":"Pour bien choisir votre classe, posez-vous les questions suivantes : préférez-vous être au centre de l’action et encaisser les dégâts, ou préférez-vous planifier vos attaques et contrôler la bataille ? Souhaitez-vous expérimenter avec la magie et la polyvalence, ou préférez-vous la rapidité et la subtilité ? Chaque choix a ses avantages et inconvénients, mais il n’y a pas de mauvais choix. L’important est de comprendre les points forts et les points faibles de la classe que vous sélectionnez pour adapter votre style de jeu."
+        },
+        {
+            "type":"text",
+            "content":"Plus tard, dans votre partie de Dragon Age: Origins, afin de personnaliser votre style de jeu, vous aurez la possibilité de choisir deux spécialisations parmi quatre proposées par votre classe : "
+        },
+        {
+            "type":"text",
+            "content":"- **Guerrier** : Berserker, Champion, Psycho, Templier"
+        },
+        {
+            "type":"text",
+            "content":"- **Mage** : Guerrier mystique, Mage de sang, Métamorphe, Guérisseur"
+        },
+        {
+            "type":"text",
+            "content":"- **Voleur** : Assassin, Barde, Duelliste, Rodeur"
+        },
+        {
+            "type": "image",
+            "src": "http://localhost:3000/assets/dragon-age-origins-classes.png",
+            "alt": "Classes et spécialisations dans Dragon Age Origins"
+        },
+        {
+            "type":"text",
+            "content":"Pour connaître les spécialisations et leurs spécificités, vous pouvez vous rendre sur la page [Dragon Age: Origins : Quelle spécialisation choisir ?](/guides/2) ."
+        }
+    ]
+},
+{
+    "id":2,
+    "title":"*Dragon Age: Origins* : Quelle spécialisation choisir ?",
+    "content":[
+        {
+            "type":"text",
+            "content":"Dans Dragon Age: Origins, après avoir choisi votre classe - Guerrier, Mage ou Voleur - (voir le guide [*Dragon Age: Origins* : Quelle classe choisir ?](/guides/1) ), vous aurez la possibilité de choisir deux spécialisations : une au niveau 7 et une au niveau 14. Chaque spécialisation offre des compétences uniques et modifie votre style de jeu. Et chaque classe offre quatre spécialisations à choisir. Il faut savoir que les quatre spécialisations de votre classe ne sont pas disponibles au début de votre partie : il faut remplir des conditions spécifiques."
+        },
+        {
+            "type": "image",
+            "src": "http://localhost:3000/assets/dragon-age-origins-classes.png",
+            "alt": "Classes et spécialisations dans Dragon Age Origins"
+        },
+        {
+            "type":"text",
+            "content":"Voici le guide pour vous aider à faire le meilleur choix selon votre style de jeu :"
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"Guerrier :"
+        },
+        {
+            "type":"text",
+            "content":"- **Berserker** : Spécialisation très offensive. Les Berserkers infligent de lourds dégâts au corps à corps et gagnent en puissance lorsqu’ils subissent des blessures. Cependant, ils doivent surveiller leur santé pour ne pas tomber trop rapidement. Il existe deux conditions pour débloquer cette spécialisation. La première est d’augmenter le niveau d’approbation d’Oghren afin qu’il puisse vous l’enseigner. La deuxième est d’acheter un manuel chez Gorim au quartier marchand de Dénérim."
+        },
+        {
+            "type":"text",
+            "content":"- **Champion** : Spécialisation défensive, idéale pour encaisser les attaques ennemies et protéger vos alliés. Les Champions attirent l’attention des ennemis et servent de tanks efficaces pour le groupe. Cette spécialisation est offerte comme récompense à la fin de la quête ''Le Iarl de Golefalois'', à condition de l’avoir accepté."
+        },
+        {
+            "type":"text",
+            "content":"- **Templier** : Spécialisation polyvalente axée sur la défense contre la magie. Les Templiers sont très utiles contre les mages adverses et peuvent protéger le groupe tout en restant efficaces au combat. Enseignée par Alistair si son niveau d’approbation est élevé, ou acquise par un manuel vendu par Bodahn au Campement."
+        },
+        {
+            "type":"text",
+            "content":"- **Psychomancien** : Spécialisation axée sur la manipulation de la puissance mentale et des attaques psychiques. Idéal pour un style de jeu stratégique et surprenant, capable de contrôler le champ de bataille et affaiblir les ennemis. Débloquée en se rangeant du côté de Kolgrim lors de la quête de la “Sainte urne cinéraire”."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"Mage : "
+        },
+        {
+            "type":"text",
+            "content":"- **Guerrier mystique** : Une spécialisation hybride entre attaque et magie défensive. Le Guerrier mystique peut encaisser quelques coups tout en lançant des sorts puissants, parfait pour ceux qui aiment être au cœur du combat. Enseignée par une âme emprisonnée dans une phylactère, pendant (ou après) la quête “La nature de la bête” dans les ruines de Bréciliane."
+        },
+        {
+            "type":"text",
+            "content":"- **Mage de sang** : Spécialisation très offensive, utilisant le sang du mage pour alimenter des sorts dévastateurs. Elle demande une bonne gestion des ressources mais permet de faire d’énormes dégâts. Apprise en concluant un pacte avec le démon du désir pendant la quête “Le Iarl de Golefalois”."
+        },
+        {
+            "type":"text",
+            "content":"- **Métamorphe** : Permet de transformer le mage ou les ennemis, offrant un style de jeu polyvalent. Idéal pour ceux qui aiment adapter leur stratégie à la situation et surprendre les ennemis. Enseignée par Morrigan si son niveau d’approbation est élevé, ou acquise par un manuel vendu par Varathorn au campement dalatien."
+        },
+        {
+            "type":"text",
+            "content":"- **Guérisseur vital** : Spécialisation de soutien, concentrée sur la protection et la guérison des alliés. Elle est parfaite pour les joueurs qui préfèrent aider le groupe plutôt qu’attaquer directement. Acquise par un manuel vendu aux Merveilles de Thédas à Denerim, ou enseignée par Levi Dryden au Pic du Soldat (DLC *La Forteresse des Gardes des Ombres*). Étrangement, votre compagnon, la guérisseuse vitale Wynne, ne vous enseignera jamais, peu importe le niveau d’approbation."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"Voleur : "
+        },
+        {
+            "type":"text",
+            "content":"- **Assassin** : Voleur spécialisé dans les attaques surprises et les coups critiques. Parfait pour éliminer rapidement des cibles clés et contrôler les combats de manière furtive. Enseignée par Zevran si son niveau d’approbation est élevé, ou acquise par un manuel vendu par Alarith au Bascloître de Dénérim."
+        },
+        {
+            "type":"text",
+            "content":"- **Barde** : Spécialisation de soutien, utilisant des capacités de manipulation et de charme pour influencer le champ de bataille. Les Bardes peuvent renforcer leurs alliés et affaiblir les ennemis. Enseignée par Leliana si son niveau d’approbation est élevé, ou acquise par un manuel vendu par Alimar à Orzammar."
+        },
+        {
+            "type":"text",
+            "content":"- **Duelliste** : Voleur orienté vers le combat direct et agile. Les Duellistes sont rapides et précis, capables de contrer et d’esquiver les attaques ennemies. Enseignée par Isabela à la Perle de Denerim, après l'avoir persuadée, l’avoir battue à un duel ou avoir couché avec elle."
+        },
+        {
+            "type":"text",
+            "content":"- **Rôdeur** : Expert de la furtivité et de l’infiltration. Les Rôdeurs sont capables d’attaquer discrètement, poser des pièges et exploiter la surprise pour infliger de gros dégâts. Apprise par un manuel vendu par Bodahn au Campement."
+        },
+        {
+            "type":"text",
+            "content":"Si vous hésitez dans votre choix de spécialisation, sachez qu’il est possible de les expérimenter en jouant vos compagnons. Les compagnons possèdent chacun une spécialisation dès le début de la partie du jeu. Tous, sauf Sten, peuvent en acquérir une deuxième. Cela vous permettra de comprendre les compétences offertes et ainsi de trouver celle qui correspond le mieux à votre style de jeu."
+        }
+    ]
+},
+{
+    "id":3,
+    "title":"Comment obtenir la meilleure fin de *Detroit: Become Human* ?",
+    "content":[
+        {
+            "type":"text",
+            "content":"Étant un jeu de narration, *Detroit: Become Human* contient plusieurs fins. Pour avoir la meilleure fin, il faut déjà que Markus mène une résistance pacifiste, que Kara et Alice franchissent la frontière du Canada en compagnie de Luther, et que Connor choisisse de devenir déviant et rejoigne les rangs de la révolution."
+        },
+        {
+            "type":"text",
+            "content":"Pour obtenir la meilleure fin de *Detroit: Become Human*, il faudra obtenir la meilleure fin de chaque héros."
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/detroit-become-human-connor-cyberlife-tower.png",
+            "alt":"Connor dans la tour de Cyberlife"
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"**Comment garder en vie les personnages importants ?**"
+        },
+        {
+            "type":"text",
+            "content":"*Les personnages secondaires*"
+        },
+        {
+            "type":"text",
+            "content":"Pour commencer, il faut que certains personnages, en plus des trois héros du jeu, survivent : Alice, Hank, Luther, North, Simon, Josh. Pas besoin de sauver Jerry, l’androïde que Kara et Alice rencontrent dans le parc d’attraction : sa mort n’impacte pas la fin du jeu. Mais si vous souhaitez obtenir le trophée ‘Survivants’, il faudra le garder en vie."
+        },
+        {
+            "type":"text",
+            "content":"Pour garder Alice en vie, il faut la protéger tout au long de l’aventure, y compris de Todd dans le chapitre ‘Nuit d’orage’."
+        },
+        {
+            "type":"text",
+            "content":"Pour Hank, il faut devenir ami avec lui ; cela évitera qu’il se suicide à la phase finale du jeu. Il y a aussi d’autres moments où il peut mourir, notamment dans le chapitre de la ‘Bataille pour Detroit’ s’il n’est pas sauvé du clone de Connor ou dans ‘Ennemi Public’ si des mauvaises décisions sont prises."
+        },
+        {
+            "type":"text",
+            "content":"Lors de l’attaque sur Jéricho dans la ‘Croisée des chemins’, Luther se fera tirer dessus. Il faudra à ce moment-là lui porter secours. Lors de la ‘Bataille pour Detroit’, vous devez à nouveau sauver Luther avant qu’il soit abattu avec Jerry dans la rue par l’armée humaine. Un peu plus tard, dans le chapitre, vous devez choisir de ne sacrifier personne au poste de frontière."
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/detroit-become-human-markus-companions.jpg",
+            "alt":"Markus avec ses trois compagnons"
+        },
+        {
+            "type":"text",
+            "content":"Pour les trois compagnons de Markus, il faudra les sauver dans les chapitres ‘Croisée des chemins’ et ‘La tour de Stratford’. Dans ‘Croisée des chemins’, quand un compagnon se trouve en difficulté, il ne faudra pas hésiter pour venir l’aider. Vous pouvez perdre un de vos compagnons dans d’autres chapitres. Pour sauver Simon, dans ‘La tour de Stratford’, il faudra suivre la voie pacifique et ne tuer aucun garde humain. Après l’enregistrement audio, prenez la fuite vers le toit tout en transportant Simon, blessé. En haut, il faudra choisir de laisser Simon en vie. Vous devrez toutefois l'abandonner sur le toit (vous le retrouverez, plus tard dans le jeu, dans l’épave du Jéricho). Plus tard, quand vous prendrez le contrôle de Connor,quand vous enquêtez sur l’intrusion des Androïdes dans la tour de Stratford, vous ne devez pas trouver Simon sur le toit. Vous devez alors finir la mission avec le Déviant dans la cuisine ou simplement oublier d’ouvrir la trappe dans laquelle se cache Simon. Pour finir, afin de sauver North, dans ‘Bataille pour Detroit’, l’agent spécial Richard Perkins proposera un marché à Markus en prétextant que lui et North pourront vivre des jours heureux. Refusez ce marché, sinon North mourra brutalement."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"*Les trois héros*"
+        },
+        {
+            "type":"text",
+            "content":"Il faudra aussi garder les trois héros en vie, car ils peuvent mourir avant la fin de la partie !"
+        },
+        {
+            "type":"text",
+            "content":"Kara est le personnage qui a le plus de chances de mourir tout au long de *Detroit: Become Human*. Il ne faudra donc pas prendre les décisions à la légère ou les choses s’arrêteront brutalement. Lors du chapitre de la ‘Nuit d’orage’, vous devez absolument protéger Alice et fuir avec elle. Sinon, Todd tuera Kara et Alice. Lors du chapitre ‘Zlatko’, vous aurez deux possibilités : jouer furtivement ou choisir une approche directe. Si vous choisissez la voie directe, vous devrez réussi les QTEs, sinon Kara sera tuée. En choisissant de jouer en mode discrétion, vous aurez plus de facilité à retrouver Alice sans vous mettre en danger, et fuir la maison par la porte de derrière."
+        },
+        {
+            "type":"text",
+            "content":"Markus est un personnage très important puisque c’est lui qui a le rôle de sauver son peuple de l’oppression des humains. Si Markus meurt, vous n’aurez pas la bonne fin de *Detroit: Become Human*. Lors de la mission de ‘Marche pour la liberté’, trois choix vous sont offerts : tenir bon, se battre avec la police et prendre la fuite. Au cas où vous tenez bon jusqu’au bout, Markus pourra choisir de se sacrifier. Et si vous n’avez pas sauvé John dans ‘L’entrepôt’, personne ne viendra se sacrifier pour lui et Markus sera abattu par la police. Au cas où vous choisissez de vous battre avec la police, il faudra tout simplement réussir les QTE… Et si vous échouez, Markus sera abattu si John n’a pas été sauvé. Il faudra aussi gagner le respect de Jéricho et des compagnons de Markus. Sinon, Markus quittera Jericho dans ‘Croisée des chemins’, North prendra la tête de la révolution et la fin pacifiste sera définitivement bloquée. Afin d'éviter d’atteindre le point de non-retour dans votre niveau de popularité, il faudra tout simplement réussir les missions et avoir une bonne relation avec vos compagnons. Pour garder Markus en vie, il faudra que Connor devienne déviant… Et ne soit pas reprogrammé par la suite. À la toute fin du jeu, il faudra trouver l’issue de secours dans l’espace virtuel afin qu’il ne soit pas reprogrammé et qu’il ne tire pas sur Markus lors de son discours."
+        },
+        {
+            "type":"text",
+            "content":"Quant à Connor, c’est le personnage le plus facile à garder en vie… Car il peut mourir plusieurs fois avant le chapitre ‘Croisée des chemins’ ! A partir de ce chapitre, il faudra faire plus attention. Toutefois, pour arriver à ce chapitre, il faudra toutefois mener à bien l’enquête. Sinon, Connor sera mis hors service par Cyberlife. Si vous réussissez à localiser Jéricho dans ‘Dernière chance, Connor’, Connor apparaîtra bel et bien dans ‘Croisée des chemins’."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"**Les décisions importantes**"
+        },
+        {
+            "type":"text",
+            "content":"Maintenant que nous avons fait le tour des morts des personnages, passons aux choix importants qui mènent vers la meilleure fin de *Detroit: Become Human*."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"*Les choix importants de Markus*"
+        },
+        {
+            "type":"text",
+            "content":"Tout au long de la rébellion des androïdes, vous devez faire en sorte que Markus choisisse une voie pacifique. Pas de morts humaines, pas de dégradations et à la fin, choisissez la manifestation plutôt que la révolution. Cela permettra d’augmenter l’opinion publique. Si elle est assez élevée, dans le chapitre final ‘Bataille pour Detroit’, la présidente des États-Unis donnera l'ordre à l'armée de ne pas tirer et de retirer les troupes : vous aurez alors gagné votre combat. Dans ce chapitre, aussi, l’agent Perkins vous proposera un marché : refusez, sinon beaucoup de monde mourra et votre manifestation échouera. Il faudra aussi qu’en prenant le contrôle de Markus, vous acceptiez que Connor rejoigne la révolution après qu’il ait choisi de devenir déviant."
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/detroit-become-human-cheminements-markus.jpg",
+            "alt":"Fins possibles du chapitre 'Nuit de l'âme'"
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"*Les choix importants de Connor*"
+        },
+        {
+            "type":"text",
+            "content":"Bien qu’il est possible de mourir avant ‘Croisée des chemins’, il faudra mourir le moins de fois possible : les morts de Connor impactent la relation avec Hank et le pousseront à se suicider si votre relation est tendue avec lui. En effet, devenir ami avec Hank est essentiel pour obtenir la meilleure fin : cela permettra de débloquer la scène post-générique dans laquelle Connor retrouve son meilleur ami Hank. Il faudra bien mener l’enquête afin d’atteindre le chapitre ‘Dernière chance, Connor’ et réussir à localiser Jéricho dans ce chapitre : sinon, Connor sera désactivé par Cyberlife et il n’apparaîtra pas dans ‘Croisée des chemins’. Dans ce chapitre, il faudra choisir de devenir déviant : à partir de là, Connor pourra aider Markus à gagner la révolution… A condition toutefois qu’en prenant le contrôle de Markus, vous le pardonniez pour ses erreurs passées. Dans le chapitre final, il faudra réussir l’attaque dans la tour de Cyberlife et sauver Hank. Durant le discours de Markus après la victoire, il faudra trouver l’issue de secours quand Amanda tentera de reprogrammer Connor."
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/detroit-become-human-connor-choices.webp",
+            "alt":"Choix de Connor à la fin du chapitre 'Le nid'"
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"*Les choix importants de Kara*"
+        },
+        {
+            "type":"text",
+            "content":"Dans le chapitre final, il faudra ne pas se faire attraper dans ‘Rues de Détroit’ : si vous atterrissez dans le camp d’extermination dans le chapitre final, même si vous réussissez à vous échapper, vous n’aurez pas la meilleure fin de Kara. Le plus important est d’atteindre la frontière, et de manière non clandestine, et de la passer ! Afin de passer la frontière du Canada de manière non clandestine, il faudra réussir à prendre le bus. Pour cela, il faudra ramasser les tickets de bus laissés tomber par mégarde par un couple avec leur bébé. Quand ces derniers reviendront les chercher, il faudra mentir et ne pas leur rendre. Si Todd est encore vivant et que vous le croisez, il faudra vous réconcilier avec lui : sinon, il préviendra les gardes et Kara et Alice seront exécutées. Quand vous atteindrez le poste de la frontière canadienne, il faudra choisir qui sacrifier : soit Kara, soit Luther, soit Jerry si vous lui avez sauvé la vie dans ‘Rues de Détroit’... Soit personne. Puisque vous aurez choisi la voie pacifique avec Markus, vous pouvez choisir de ne sacrifier personne. Kara suppliera le garde de les laisser, ce dernier jettera un coup d'œil sur la chaîne d’info, qui diffuse la manifestation de Markus, et les laissera passer par compassion."
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/detroit-become-human-bad-ending-frontier.webp",
+            "alt":"Scène si Kara et Alice sont arrêtées au poste de frontière"
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"En résumé, pour obtenir la meilleure fin du jeu : garder en vie les trois héros et les autres personnages importants, devenir ami avec Hank, suivre la voie pacifique et éviter que Connor soit reprogrammé. Bien qu’il se peut qu’on ait oublié un détail bien que superficiel (le jeu ayant des cheminements complexes), vous avez maintenant toutes les cartes en main pour arriver à la bonne fin. Bonne partie de jeu !"
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"*N.B. : Bien que sa mort n’impacte pas sur la fin du jeu, vous pouvez sauver Jerry lors de la fusillade dans le chapitre ‘Bataille pour Detroit’. Il apparaîtra au poste de la frontière et vous pourrez choisir de le sacrifier. Vous obtiendrez tout de même la meilleure fin de Kara. Toutefois, si vous avez choisi la voie pacifique de Markus, cette option n’est pas la seule possibilité pour la meilleure fin de Kara.*"
+        }
+    ]
+},
+{
+    "id":4,
+    "title":"Comment battre le boss final dans *Resident Evil 2* (remake) ?",
+    "content":[
+        {
+            "type":"text",
+            "content":"Le boss final de *Resident Evil 2* (remake) dépend du personnage que vous jouez. Si vous jouez Claire dans le scénario A, vous vous battez contre la quatrième forme de William Birkin. Si vous jouez contre Léon dans le scénario A, vous vous battez contre le Tyran X. Vous avez aussi un boss ultime (après le boss final du personnage), qui apparaît dans le scénario B de n’importe quel personnage : William Birkin sous sa forme finale."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"**Claire : 4ème forme de William Birkin**"
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/resident-evil-2-boss-final-claire.jpg",
+            "alt":"4e forme de William Birkin"
+        },
+        {
+            "type":"text",
+            "content":"Sous cette forme, les yeux sur son ventre sont directement accessibles. Concentrez donc tous vos tirs sur ces parties sensibles, en n’oubliant pas de rester extrêmement mobile pour ne pas vous faire toucher. Lorsque la créature grimpe au mur, concentrez vos tirs de Minigun pour le faire chuter et valider ainsi le défi ‘Les pieds sur terre’. Continuez à tirer sur ses yeux pour venir à bout de ce dernier boss. Vous obtiendrez le trophée ‘À l'aise’ si vous tuez le boss au moins 4 minutes avant le temps imparti."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"**Léon : Tyran X**"
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/resident-evil-2-boss-final-leon.jpg",
+            "alt":"Tyran X"
+        },
+        {
+            "type":"text",
+            "content":"Dans cette forme, le Tyran est extrêmement agressif et beaucoup plus rapide qu’avant. Visez son torse tout en restant assez mobile pour éviter ses charges. Vous pouvez valider le défi ‘À plat’ si vous arrivez à stopper la charge du Tyran S. Infligez-lui assez de dégâts pour déclencher une cinématique où Ada vous envoie une mallette contenant le lance-roquettes antichar. Ramassez rapidement l’arme et faites feu sur le Tyran S pour en finir avec lui. Si vous avez réussi à le vaincre alors qu’il vous restait plus de 5 minutes au compteur, vous obtiendrez le trophée ‘En un clin d’œil’."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"**Scénario bis : forme finale de William Birkin**"
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/resident-evil-2-boss-ultime.jpg",
+            "alt":"Forme finale de William Birkin"
+        },
+        {
+            "type":"text",
+            "content":"Le combat est techniquement très simple ; il vous suffit de reculer pour ne pas vous faire toucher et d'utiliser toutes vos munitions restantes. Il faudra lui tirer dessus plusieurs fois avant qu’un œil géant apparaît au milieu de son corps. Dans ce cas, utilisez vos roquettes restantes pour en venir à bout."
+        }
+    ]
+},
+{
+    "id":5,
+    "title":"Comment élever un Chao dans *Sonic Adventure 2* ?",
+    "content":[
+        {
+            "type":"text",
+            "content":"L’élevage commence dans le Chao Lobby (jardin neutre) où se trouvent deux œufs. Il existe 3 manières de faire éclore un œuf : soit attendre quelques minutes, soit lancer l’œuf contre un mur ou donner un coup de pied, soit bercer l’œuf."
+        },
+        {
+            "type":"text",
+            "content":"La manière de le faire éclore impacte la relation avec le Chao. L’évolution du Chao est en 2 parties. La première dans un cocon de couleur bleu, jusqu’à l’âge adulte. La seconde se passe au fil du temps, jusqu’à la mort du Chao. Afin qu’il se réincarne, il faut bien s’occuper du Chao. Pour savoir s’il se réincarne, le chao se transformera en un cocon pour passer à une nouvelle vie. S’il est rose, il se réincarnera. S’il est gris, dans ce cas, vous pouvez lui dire adieu."
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/sa2-throw-egg.png",
+            "alt":"Tails lançant un oeuf de Chao contre un mur"
+        },
+        {
+            "type":"text",
+            "content":"Les Chao vivent environ 5 années Chao. Une année Chao représente 2 heures dans le jardin. Le temps passe seulement dans le jardin où vous êtes. Donc, si vous jouez ailleurs que dans le jardin, les Chaos ne vieilliront pas."
+        },
+        {
+            "type":"text",
+            "content":"Pour élever et faire évoluer un Chao, il faut utiliser des Chaos Drives et des petits animaux. Tandis que les drives permettent de modifier seulement les compétences, les petits animaux modifient les compétences et l’apparence du Chao. A noter que la compétence Stamina ne grandit qu’avec des fruits. Il existe quatre autres compétences : Swim, Fly, Power et Run."
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/sa2-chaos-drives.png",
+            "alt":"Chao drive"
+        },
+        {
+            "type":"text",
+            "content":"Pour faire passer votre Chao à sa première évolution, il suffit de lui donner seulement des Chaos Drives et des fruits."
+        },
+        {
+            "type":"text",
+            "content":"Il existe trois types de Chao évolué liés au karma : Hero, Neutral et Dark. Si vous voulez obtenir un Hero Chao, il faudra l’élever avec un Hero (Sonic, Tails ou Knuckles). Si vous voulez obtenir un Dark Chao, il faudra l’élever avec un personnage Dark (Shadow, Rouge ou Eggman). Si vous voulez obtenir un Neutral Chao, il faudra alterner entre les Heroes et les personnages Dark. Ce dernier est toutefois plus difficile à obtenir car le jeu calcule bien le temps avec quel personnage le Chao a passé le plus de temps. Ce type d’évolution définit dans quel jardin le Chao va évoluer : Hero Garden, Neutral Garden et Dark Garden."
+        },
+        {
+            "type":"text",
+            "content":"En plus de ces trois types d’évolution, elle varie selon les Chaos Drives et les fruits donnés au Chao. Avec cinq compétences existantes, il existe cinq types d’évolution liés aux compétences. Ce type d’évolution affecte l’apparence du Chao. Avec les groupes d’évolution liés au karma et ceux liés aux compétences, ça fait au total 20 évolutions possibles pour la première évolution du Chao. La deuxième évolution, qui s’effectue tout au long de la vie du Chao, compte beaucoup plus d’évolutions possibles que la première. Elle adopte le même mécanisme avec les Chaos Drives et les petits animaux."
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/sa2-chao-evolutions.jpg",
+            "alt":"Quelques-unes des évolutions possibles d'un Chao"
+        },
+        {
+            "type":"text",
+            "content":"Pour obtenir un Chao translucide, il faut faire accoupler un Chao gris (ou jaune) brillant avec un Chao Jewel. Pour obtenir un Chao invisible, il faut faire accoupler un Chao Jewel avec un chao brillant. Le taux de réussite est plus élevé si c’est avec un chao jaune brillant qu’avec un chao brillant d’une autre couleur. Le taux de réussite n’est pas à 100% pour tous ces accouplements."
+        },
+        {
+            "type":"text",
+            "content":"Pour obtenir un Chao Ultime, il faut attendre la troisième vie. Pour qu’il évolue en tant que tel, il ne faut lui donner aucun drive, lui donner une fois chaque petit animal. Cependant, vous pouvez lui donner autant de fruits que vous souhaitez. Il existe trois Chao Chaos. Pour qu’il évolue en Chao Chao Hero, il faut l’élever avec un personnage Hero, pour qu’il évolue en Chao Chaos Dark… Bref, vous comprenez le mécanisme désormais."
+        },
+        {
+            "type":"text",
+            "content":"Pour obtenir un Chao spécial (Chao Sonic, Chao Tails, Chao Shadow, etc.), il faut d’abord prendre un Chao neutre et le faire évoluer de manière très spécifique. Par exemple, pour le Chao Sonic, il faut lui donner plein de Chaos Drives de Run et de Stamina, tout en évitant qu’un drive n’emporte pas sur l’autre en quantité."
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/sa2-special-chao.png",
+            "alt":"Trois exemples de Special Chao : Amy Chao, Tails Chao et Knuckles Chao"
+        },
+        {
+            "type":"text",
+            "content":"Pour faire accoupler deux Chaos et obtenir un bébé Chao, il faut se rendre au Black Market et acheter deux fruits ‘coeur’. Vous devez ensuite donner un des fruits au premier Chao ; des fleurs pousseront autour de lui. Donnez le deuxième fruit à un deuxième Chao et guidez-le au premier Chao. Ensuite, ils se font des bisous et un œuf apparaît."
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/sa2-chao-love.png",
+            "alt":"Deux Chao amoureux"
+        },
+        {
+            "type":"text",
+            "content":"Comme dit plus haut, l’élevage commence dans le Chao Lobby, ou jardin neutre. Deux autres jardins, le Hero Garden et le Dark Garden, se débloquent quand un Chao évolue en Hero ou Dark Chao. Les trois jardins sont accessibles depuis le Hall d’entrée."
+        },
+        {
+            "type":"text",
+            "content":"Que vous cherchiez à créer un Chao puissant, un compagnon unique ou simplement à expérimenter les différentes évolutions, tout repose sur votre patience et votre implication. En comprenant les mécaniques du jeu, vous serez en mesure de façonner le Chao qui correspond parfaitement à vos objectifs."
+        }
+    ]
+},
+{
+    "id":6,
+    "title":"Toutes les fins possibles de *Silent Hill 2* (remake)",
+    "content":[
+        {
+            "type":"text",
+            "content":"Fidèle à l’esprit de l’original et de la saga, Silent Hill 2 Remake reprend le système de fins multiples. Contrairement à beaucoup de jeux où les décisions influencent la fin, c’est la manière de jouer qui influence le dénouement : la manière de vous soigner, votre choix d’utiliser tel objet pour une énigme, votre comportement vis-à-vis de Maria, ou encore la récupération d’objets spéciaux."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/Silent-Hill-2-Remake.jpg",
+            "alt":"James dans la ville hantée de Silent Hill"
+        },
+        {
+            "type":"text",
+            "content":"**‘Départ’**"
+        },
+        {
+            "type":"text",
+            "content":"C’est une des fins normales et la plus commune à obtenir. Il faut préserver la santé de James dans la zone verte, et ne pas attendre longtemps avant de le soigner quand elle tombe dans la zone orange ou rouge. Il ne faut pas non plus examiner le couteau d’Angela. Vous devez choisir la pièce du Serpent à l’énigme des pièces de Wood Side, et utiliser la pomme pourrie dans le puzzle du miroir de la chambre 202 de l’hôtel Lakeview. Examiner la photo de Mary ainsi que sa lettre impactent aussi la fin et peuvent mener vers ‘Départ’. Il faut ignorer Maria le plus possible : ne pas aller la voir lorsqu’elle se repose à l’hôpital ou quand elle est enfermée dans le labyrinthe, et ne surtout pas déclencher les dialogues secondaires liés à sa tenue classique ou devant le manoir Baldwin. Après avoir battu les deux Pyramid Head, passez par la porte sur laquelle vous avez placé l’Œuf couleur rouille. Dans un dernier couloir menant au boss final, arrêtez-vous pour écouter tout le dialogue de Mary."
+        },
+        {
+            "type":"text",
+            "content":"**‘Maria’**"
+        },
+        {
+            "type":"text",
+            "content":"Ici aussi, vous devez préserver la santé de James dans la zone verte le plus longtemps possible. Mais notez quelques changements dans les conditions pour débloquer cette fin. Vous devez passer le plus de temps possible avec Maria. Dès qu’un ennemi la prend pour cible, vous devez immédiatement la secourir. Quand il faut aller au Motel Jacks, faites-le au lieu d’aller explorer le reste du quartier. Prenez le temps d’examiner les objets et les posters du Heaven’s Night. Montez également au niveau de la barre de pole dance.Allez la voir régulièrement lorsqu’elle se repose à l’hôpital, et notamment à chaque bracelet trouvé. Vous devez assister à deux cinématiques. Vous pouvez déclencher ses dialogues secondaires liés à sa tenue classique ou devant le manoir Baldwin. Vous pouvez également aller lui rendre visite régulièrement au labyrinthe."
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/silent-hill-2-fin-maria.jpg"
+        },
+        {
+            "type":"text",
+            "content":"Vous devez également choisir la pièce Femme à la fin de l’énigme des pièces de Wood Side, et utiliser la pomme mûre dans le puzzle du miroir de la chambre 202 de l’hôtel Lakeview. Après avoir battu les deux Pyramid Head, passez par la porte sur laquelle vous avez placé l’Œuf écarlate. Dans le dernier couloir menant au boss final, ne vous arrêtez pas et ignorez la fin du dialogue de Mary."
+        },
+        {
+            "type":"text",
+            "content":"La fin étant tournée vers Maria, il ne faut examiner ni la lettre, ni la photo de Mary."
+        },
+        {
+            "type":"text",
+            "content":"**‘Dans l’eau’**"
+        },
+        {
+            "type":"text",
+            "content":"Ici, il faut laisser le niveau de santé de James dans la zone orange ou rouge le plus longtemps possible. Examinez régulièrement le couteau d’Angela. Choisissez la pièce Homme à la fin de l’énigme des pièces de Wood Side. Ignorez Maria autant que possible, et n’examinez ni la lettre, ni la photo de Mary (aussi étonnant soit-il quand on sait la raison de la fin de l’eau). Utilisez la pomme pourrie dans le puzzle du miroir de la chambre 202 de l’hôtel Lakeview. Après avoir battu les deux Pyramid Head, passez par la porte sur laquelle vous avez placé l’Œuf couleur rouille. Dans un dernier couloir menant au boss final, arrêtez-vous pour écouter tout le dialogue de Mary."
+        },
+        {
+            "type":"text",
+            "content":"**‘Renaissance’**"
+        },
+        {
+            "type":"text",
+            "content":"C’est une des fins disponibles en New Game+. Elle nécessite la récupération de quatre objets : "
+        },
+        {
+            "type":"text",
+            "content":"- **Cérémonie écarlate** : un livre se trouvant au cimetière et accessible après le premier dialogue avec Angela. Il est posé au pied d’une tombe frappée d’un symbole d’œil, près de l’eau."
+        },
+        {
+            "type":"text",
+            "content":"- **Chrême blanc** : une bouteille posée sur une table devant la porte d’entrée du Manoir Baldwin, accessible juste après avoir franchi le portail du Motel Jacks."
+        },
+        {
+            "type":"text",
+            "content":"- **Coupe en obsidienne** : coupe située à la Société historique. Avancez jusqu’à la salle principale où se trouve la toile du Pyramid Head, tournez la tête vers la gauche et vous la verrez dans un petit renfoncement du mur."
+        },
+        {
+            "type":"text",
+            "content":"- **Souvenirs perdus** : livre situé dans la pièce des objets trouvés de l’hôtel Lakeview. Vous pouvez accéder à cette pièce depuis le mur fissuré du Café Toluca."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"En possession des quatre objets, la fin ‘Renaissance’ se déclenchera automatiquement après avoir battu le boss final, et ce peu importe la manière de jouer durant votre partie."
+        },
+        {
+            "type":"text",
+            "content":"**‘Chien’**"
+        },
+        {
+            "type":"text",
+            "content":"Aussi disponible en New Game+, elle est toutefois très spéciale. Vous devez récupérer deux moitiés de clé au cours de votre aventure, puis attendre de pouvoir accéder au couloir du 2e étage de l’Hôtel Lakeview. Voici où trouver les deux moitiés de clé :"
+        },
+        {
+            "type":"text",
+            "content":"Dans le quartier South Vale est, dirigez-vous au niveau du Big Jay’s, au carrefour de Katz St et Neely St. Juste à côté, vous verrez le magasin pour animaux ‘The Pet Center’. Entrez et allez au fond à gauche pour voir une patoune sur la table. Il s’agit de la première moitié de la clé."
+        },
+        {
+            "type":"text",
+            "content":"Ensuite, lorsque vous serez avec Maria et que vous aurez traversé le portail du Motel Jacks, allez sur Katz St. Entre les deux premières maisons sur la droite, vous verrez un portail en bois avec un symbole d’os. Entrez puis allez jusqu’à la niche. Ramassez le bout d’os qui constitue la deuxième moitié de la clé."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"Une fois les deux moitiés de la clé trouvée, combinez-les. Vous obtiendrez alors la clé du chien. Vous vous en servirez à l’hôtel Lakeview : au lieu d’aller à la chambre 312, ouvrez la porte de la salle d’observation située juste avant. Cela lancera la cinématique de fin."
+        },
+        {
+            "type":"text",
+            "content":"**‘OVNI’**"
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/silent-hill-2-ovni-ending.avif",
+            "alt":"Fin OVNI"
+        },
+        {
+            "type":"text",
+            "content":"Une des fins de New Game+ et très spécifique à la licence *Silent Hill*. Vous devez obtenir une gemme bleue, dans le quartier South Vale est. Dirigez-vous au niveau du Big Jay’s, au carrefour de Katz St et Neely St. Un peu plus au nord, à gauche du magasin pour animaux ‘The Pet Center’, vous tomberez sur la bijouterie ‘JEWELLERS’. Brisez la vitrine de gauche et vous pourrez ramasser la gemme bleue dans son coffret. Ensuite, examinez la gemme et ce à quatre endroits de la ville. Quand vous entendez le bruit d’une soucoupe volante, c’est que vous êtes au bon endroit."
+        },
+        {
+            "type":"text",
+            "content":"Le premier endroit est ur le toit de la résidence de Saul Street, juste après que vous ayez récupéré le bouton de jukebox pour le puzzle du Neely’s Bar. Le deuxième est à votre arrivée sur la jetée du parc Rosewater, près des jumelles, et ce avant votre rencontre avec Maria. Ensuite, rendez-vous sur la jetée du hôtel Lakeview, juste à côté de votre barque. Enfin, le dernier endroit est la chambre 312, à l’hôtel Lakeview. Vous devez éviter d'entrer la cassette dans le magnétoscope."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"Ainsi, quand vous aurez examiné la gemme bleue une quatrième fois, la fin ‘OVNI’ se déclenchera."
+        },
+        {
+            "type":"text",
+            "content":"**‘Bonheur’**"
+        },
+        {
+            "type":"text",
+            "content":"Une des deux fins inédites à la version remake de *Silent Hill 2*. Elle n’est accessible qu’en New Game+. Vous devez trouver deux objets :"
+        },
+        {
+            "type":"text",
+            "content":"- **La clé rouillée** : Au lieu d’aller au Motel Jacks avec Maria, partez à l’ouest et pénétrez à l’intérieur du Bowling de Pete. Derrière le comptoir dans la salle des pistes de bowling, vous verrez un petit coffre-fort. Entrez la combinaison 1887 pour l’ouvrir et récupérer la clé rouillée."
+        },
+        {
+            "type":"text",
+            "content":"- **Le petit coffre** : dans le jardin au rez-de-chaussée de l’hôpital de Brookhaven. Un petit cabanon se trouve dans le coin nord-ouest du jardin. Passez à travers l’ouverture au niveau du sol et faites attention au mannequin caché à l’intérieur. Vous verrez ensuite le petit coffre sur un banc."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"Combinez ensuite la clé rouillée et le petit coffre pour obtenir la boisson Claudia blanche. Allez ensuite dans la chambre 312 de l’hôtel Lakeview. Dans l’inventaire, choisissez « Utiliser » sur la Claudia blanche pour la boire. Enfin, insérez la cassette dans le magnétoscope pour assister à cette fin."
+        },
+        {
+            "type":"text",
+            "content":"**‘Tranquillité’**"
+        },
+        {
+            "type":"image",
+            "src":"http://localhost:3000/assets/silent-hill-2-tranquillite.png",
+            "alt":"Fin Tranquillité"
+        },
+        {
+            "type":"text",
+            "content":"Une des deux fins inédites à la version remake de *Silent Hill 2*. Elle est uniquement accessible après avoir obtenu la fin ‘Dans l’eau’. Vous devrez d’abord trouver la clé de la tristesse, avant de l’utiliser sur un coffre vers la fin du jeu. Pour trouver cette clé, vous devez récupérer la tronçonneuse au niveau du ranch, plantée dans un tas de bois sur la droite, après le cimetière au début du jeu vidéo. Vous trouvez la clé de la tristesse dans un petit tunnel, dans une voiture verte ; vous devez briser la vitre arrière droite grâce à la tronçonneuse."
+        },
+        {
+            "type":"text",
+            "content":"Maintenant que vous avez la clé, rendez-vous à l’hôtel Lakeview, quand vous serez dans l’Autre monde. Lorsque vous serez dans cette version rouillée et délabrée de l’hôtel, vous finirez par atteindre le rez-de-chaussée. Non loin des ennemis qui finissent par mourir tout seul, entrez à l’intérieur du bureau du directeur. Dans le coin sud-ouest de la pièce, vous verrez un coffre au niveau du sol. Utilisez la clé sur le verrou de gauche puis entrez la combinaison 314 : tournez vers la droite jusqu’à ‘3’, puis vers la gauche jusqu’à ‘1’ et enfin, vers la droite jusqu’à ‘4’. Vous obtiendrez alors la carte postale de Toluca. Examinez-la depuis l’inventaire puis terminez le jeu pour assister à cette fin inédite."
+        },
+        {
+            "type":"text",
+            "content":" "
+        },
+        {
+            "type":"text",
+            "content":"En résumé, le plus important pour avoir la fin souhaitée, c’est la jauge de santé de James, l’énigme des pièces de Wood Side, le couteau d’Angela et passer du temps avec Maria ou non. Pour les fins spéciales et inédites à la version remake, vous devez trouver des objets spécifiques."
+        }
+    ]
+}
+]
